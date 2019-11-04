@@ -1,0 +1,1836 @@
+[
+  {
+    "id": 1,
+    "name": "Animal Planet",
+    "data_id": 94,
+    "img": "animalplanet.png",
+    "group": "sctv"
+  },
+  {
+    "id": 2,
+    "name": "AXN",
+    "data_id": 50,
+    "img": "axn.png",
+    "group": "sctv"
+  },
+  {
+    "id": 3,
+    "name": "BTV5",
+    "data_id": 87,
+    "img": "btv5.png",
+    "group": "sctv"
+  },
+  {
+    "id": 4,
+    "name": "Cartoon Network",
+    "data_id": 90,
+    "img": "cartoon.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 5,
+    "name": "Discovery",
+    "data_id": 92,
+    "img": "discovery.png",
+    "group": "sctv"
+  },
+  {
+    "id": 6,
+    "name": "Discovery Asia",
+    "data_id": 96,
+    "img": "discoveryasia.png",
+    "group": "sctv"
+  },
+  {
+    "id": 7,
+    "name": "Discovery Asia HD",
+    "data_id": 187,
+    "img": "discoveryasia.png",
+    "group": "sctv"
+  },
+  {
+    "id": 8,
+    "name": "Disney Channel",
+    "data_id": 91,
+    "img": "disney.png",
+    "group": "sctv"
+  },
+  {
+    "id": 9,
+    "name": "DW - Truyền hình Đức",
+    "data_id": 126,
+    "img": "dw.png",
+    "group": "sctv"
+  },
+  {
+    "id": 10,
+    "name": "FOX LIFE",
+    "data_id": 28,
+    "img": "foxlife.png",
+    "group": "sctv"
+  },
+  {
+    "id": 11,
+    "name": "FOX MOVIES",
+    "data_id": 26,
+    "img": "foxmovies.png",
+    "group": "sctv"
+  },
+  {
+    "id": 12,
+    "name": "Fox Sport",
+    "data_id": 25,
+    "img": "fox_sports.png",
+    "group": "sctv"
+  },
+  {
+    "id": 13,
+    "name": "Fox Sport HD",
+    "data_id": 165,
+    "img": "fox_sportshd.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 14,
+    "name": "FOX SPORTS 2",
+    "data_id": 81,
+    "img": "fox_sports2.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 15,
+    "name": "FX",
+    "data_id": 24,
+    "img": "fx.png",
+    "group": "sctv"
+  },
+  {
+    "id": 16,
+    "name": "HBO",
+    "data_id": 23,
+    "img": "hbo.png",
+    "group": "sctv"
+  },
+  {
+    "id": 17,
+    "name": "HBO HD - Phim điện ảnh Mỹ HD",
+    "data_id": 171,
+    "img": "hbohd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 18,
+    "name": "HGTV - Truyền hình Hậu Giang",
+    "data_id": 33,
+    "img": "haugiang.png",
+    "group": "sctv"
+  },
+  {
+    "id": 19,
+    "name": "Max By HBO",
+    "data_id": 250,
+    "img": "maxhbo.png",
+    "group": "sctv"
+  },
+  {
+    "id": 20,
+    "name": "National Geographic",
+    "data_id": 93,
+    "img": "nationalgeographichd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 21,
+    "name": "NTV - Truyền hình Ninh Bình",
+    "data_id": 66,
+    "img": "ninhbinh.png",
+    "group": "sctv"
+  },
+  {
+    "id": 22,
+    "name": "S SPORT 2",
+    "data_id": 236,
+    "img": "ssport2.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 23,
+    "name": "S SPORT 3",
+    "data_id": 237,
+    "img": "btv5.png",
+    "group": "sctv"
+  },
+  {
+    "id": 24,
+    "name": "SCTV 21",
+    "data_id": 249,
+    "img": "sctv21.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 25,
+    "name": "SCTV HD Thể Thao",
+    "data_id": 22,
+    "img": "SCTVHDTT.PNG",
+    "group": "sctv"
+  },
+  {
+    "id": 26,
+    "name": "SCTV Phim Tổng Hợp",
+    "data_id": 4,
+    "img": "sctvpth.png",
+    "group": "sctv"
+  },
+  {
+    "id": 27,
+    "name": "SCTV Phim tổng hợp HD",
+    "data_id": 177,
+    "img": "sctvpthhd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 28,
+    "name": "SCTV1",
+    "data_id": 7,
+    "img": "sctv1hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 42,
+    "name": "SCTV2 - AMC",
+    "data_id": 2,
+    "img": "sctv2.png",
+    "group": "sctv"
+  },
+  {
+    "id": 43,
+    "name": "SCTV2 HD",
+    "data_id": 183,
+    "img": "SCTV2.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 44,
+    "name": "SCTV3 - SeeTV",
+    "data_id": 10,
+    "img": "sctv3hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 45,
+    "name": "SCTV4",
+    "data_id": 9,
+    "img": "sctv4.png",
+    "group": "sctv"
+  },
+  {
+    "id": 46,
+    "name": "SCTV6",
+    "data_id": 12,
+    "img": "SCTV6.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 47,
+    "name": "SCTV6 HD - SNTV",
+    "data_id": 182,
+    "img": "sctv6hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 48,
+    "name": "SCTV7 - Show",
+    "data_id": 13,
+    "img": "sctv7hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 49,
+    "name": "SCTV7 HD - Kênh sân khấu",
+    "data_id": 175,
+    "img": "SCTV7.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 50,
+    "name": "SCTV9",
+    "data_id": 8,
+    "img": "sctv9hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 29,
+    "name": "SCTV11 - TV STAR",
+    "data_id": 16,
+    "img": "sctv11hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 30,
+    "name": "SCTV12",
+    "data_id": 17,
+    "img": "sctv12hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 31,
+    "name": "SCTV13 - Lady TV",
+    "data_id": 18,
+    "img": "sctv13hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 32,
+    "name": "SCTV13 HD - TVF",
+    "data_id": 185,
+    "img": "sctv13.png",
+    "group": "sctv"
+  },
+  {
+    "id": 33,
+    "name": "SCTV14 - Kênh Phim Việt",
+    "data_id": 19,
+    "img": "sctv14hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 34,
+    "name": "SCTV15 - S Sport 2",
+    "data_id": 20,
+    "img": "ssport2.jpg",
+    "group": "sctv"
+  },
+  {
+    "id": 35,
+    "name": "SCTV15 HD - Kênh thể thao",
+    "data_id": 217,
+    "img": "sctv15hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 36,
+    "name": "SCTV16",
+    "data_id": 21,
+    "img": "sctv16hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 37,
+    "name": "SCTV17 - S Sport",
+    "data_id": 82,
+    "img": "sctv17hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 38,
+    "name": "SCTV17 HD",
+    "data_id": 164,
+    "img": "sctv17.png",
+    "group": "sctv"
+  },
+  {
+    "id": 39,
+    "name": "SCTV18 – KÊNH 18",
+    "data_id": 83,
+    "img": "sctv18hd.png",
+    "group": "sctv"
+  },
+  {
+    "id": 40,
+    "name": "sctv18.png",
+    "data_id": 169,
+    "img": "sctv18.png",
+    "group": "sctv"
+  },
+  {
+    "id": 41,
+    "name": "SCTV19",
+    "data_id": 95,
+    "img": "sctv19.png",
+    "group": "sctv"
+  },
+  {
+    "id": 51,
+    "name": "THBT - Truyền hình Bến Tre",
+    "data_id": 65,
+    "img": "bentre.png",
+    "group": "sctv"
+  },
+  {
+    "id": 52,
+    "name": "THDT1 - Truyền hình Đồng Tháp 1",
+    "data_id": 49,
+    "img": "dongthap1.png",
+    "group": "sctv"
+  },
+  {
+    "id": 53,
+    "name": "Today TV",
+    "data_id": 60,
+    "img": "todaytv.png",
+    "group": "sctv"
+  },
+  {
+    "id": 54,
+    "name": "tvBlue - VTC5",
+    "data_id": 80,
+    "img": "vtc5.png",
+    "group": "sctv"
+  },
+  {
+    "id": 55,
+    "name": "VTC14",
+    "data_id": 68,
+    "img": "vtc14.png",
+    "group": "sctv"
+  },
+  {
+    "id": 56,
+    "name": "VTC16",
+    "data_id": 69,
+    "img": "vtc16.png",
+    "group": "sctv"
+  },
+  {
+    "id": 57,
+    "name": "AFC",
+    "data_id": 62,
+    "img": "afc.png",
+    "group": "htvc"
+  },
+  {
+    "id": 58,
+    "name": "AXN",
+    "data_id": 56,
+    "img": "axn.png",
+    "group": "htvc"
+  },
+  {
+    "id": 59,
+    "name": "BBC Lifestyle",
+    "data_id": 64,
+    "img": "bbclifestyle.jpg",
+    "group": "htvc"
+  },
+  {
+    "id": 60,
+    "name": "Channel V HD",
+    "data_id": 54,
+    "img": "vchannel.png",
+    "group": "htvc"
+  },
+  {
+    "id": 61,
+    "name": "DIVA",
+    "data_id": 253,
+    "img": "diva.png",
+    "group": "htvc"
+  },
+  {
+    "id": 62,
+    "name": "FOX HD",
+    "data_id": 272,
+    "img": "foxhd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 63,
+    "name": "Fox life HD",
+    "data_id": 137,
+    "img": "foxlife.png",
+    "group": "htvc"
+  },
+  {
+    "id": 64,
+    "name": "KBS World",
+    "data_id": 76,
+    "img": "kbsworld.png",
+    "group": "htvc"
+  },
+  {
+    "id": 65,
+    "name": "MTV",
+    "data_id": 42,
+    "img": "mtv.png",
+    "group": "htvc"
+  },
+  {
+    "id": 66,
+    "name": "OUTDOOR",
+    "data_id": 255,
+    "img": "outdoor.png",
+    "group": "htvc"
+  },
+  {
+    "id": 67,
+    "name": "TH Long An",
+    "data_id": 95,
+    "img": "longan.png",
+    "group": "htvc"
+  },
+  {
+    "id": 68,
+    "name": "TH Vĩnh Long 1",
+    "data_id": 97,
+    "img": "thvinhlong.png",
+    "group": "htvc"
+  },
+  {
+    "id": 69,
+    "name": "TH Vĩnh Long 2",
+    "data_id": 98,
+    "img": "thvinhlong2.png",
+    "group": "htvc"
+  },
+  {
+    "id": 70,
+    "name": "VTC4 (Yeah1 Family)",
+    "data_id": 27,
+    "img": "vtc4.png",
+    "group": "htvc"
+  },
+  {
+    "id": 71,
+    "name": "VTC7 (Today TV)",
+    "data_id": 29,
+    "img": "todaytv.png",
+    "group": "htvc"
+  },
+  {
+    "id": 72,
+    "name": "VTV1",
+    "data_id": 34,
+    "img": "vtv1.png",
+    "group": "htvc"
+  },
+  {
+    "id": 73,
+    "name": "VTV2 HD",
+    "data_id": 35,
+    "img": "vtv2hd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 74,
+    "name": "VTV3 HD",
+    "data_id": 157,
+    "img": "vtv3hd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 75,
+    "name": "VTV4",
+    "data_id": 37,
+    "img": "vtv4.png",
+    "group": "htvc"
+  },
+  {
+    "id": 76,
+    "name": "VTV5",
+    "data_id": 38,
+    "img": "vtv5.png",
+    "group": "htvc"
+  },
+  {
+    "id": 77,
+    "name": "VTV6 HD",
+    "data_id": 39,
+    "img": "vtv6hd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 78,
+    "name": "VTV8",
+    "data_id": 196,
+    "img": "vtv8.png",
+    "group": "htvc"
+  },
+  {
+    "id": 79,
+    "name": "VTV9",
+    "data_id": 40,
+    "img": "vtv9.png",
+    "group": "htvc"
+  },
+  {
+    "id": 80,
+    "name": "Yeah1 TV",
+    "data_id": 160,
+    "img": "yeah1tv.png",
+    "group": "htvc"
+  },
+  {
+    "id": 81,
+    "name": "Du lịch & Cuộc sống HD",
+    "data_id": 20,
+    "img": "htvcdulich.png",
+    "group": "htvc"
+  },
+  {
+    "id": 82,
+    "name": "FBNC HD",
+    "data_id": 127,
+    "img": "fbnc.png",
+    "group": "htvc"
+  },
+  {
+    "id": 83,
+    "name": "HTV1",
+    "data_id": 10,
+    "img": "htv1.png",
+    "group": "htvc"
+  },
+  {
+    "id": 84,
+    "name": "HTV2",
+    "data_id": 11,
+    "img": "htv2.png",
+    "group": "htvc"
+  },
+  {
+    "id": 85,
+    "name": "HTV3",
+    "data_id": 12,
+    "img": "htv3.png",
+    "group": "htvc"
+  },
+  {
+    "id": 86,
+    "name": "HTV4",
+    "data_id": 13,
+    "img": "htv4.png",
+    "group": "htvc"
+  },
+  {
+    "id": 87,
+    "name": "HTV7",
+    "data_id": 15,
+    "img": "htv7.png",
+    "group": "htvc"
+  },
+  {
+    "id": 88,
+    "name": "HTV9",
+    "data_id": 16,
+    "img": "htv9.png",
+    "group": "htvc"
+  },
+  {
+    "id": 89,
+    "name": "HTVC - Ca nhạc",
+    "data_id": 18,
+    "img": "htvccanhac.png",
+    "group": "htvc"
+  },
+  {
+    "id": 90,
+    "name": "HTVC - Gia Đình",
+    "data_id": 7,
+    "img": "htvcgiadinh.png",
+    "group": "htvc"
+  },
+  {
+    "id": 91,
+    "name": "HTVC +  HD",
+    "data_id": 17,
+    "img": "htvc+.png",
+    "group": "htvc"
+  },
+  {
+    "id": 92,
+    "name": "HTVC - Phim",
+    "data_id": 8,
+    "img": "htvphim.png",
+    "group": "htvc"
+  },
+  {
+    "id": 93,
+    "name": "HTVC - Phụ Nữ",
+    "data_id": 6,
+    "img": "htvphunu.png",
+    "group": "htvc"
+  },
+  {
+    "id": 94,
+    "name": "HTVC - Thuần Việt",
+    "data_id": 4,
+    "img": "thuanviet.png",
+    "group": "htvc"
+  },
+  {
+    "id": 95,
+    "name": "HTVC Thuần Việt HD (Phim Việt)",
+    "data_id": 5,
+    "img": "thuanviethd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 96,
+    "name": "An Ninh TV",
+    "data_id": 23,
+    "img": "antv.png",
+    "group": "htvc"
+  },
+  {
+    "id": 97,
+    "name": "TH Bình Dương 1",
+    "data_id": 84,
+    "img": "btv1.png",
+    "group": "htvc"
+  },
+  {
+    "id": 98,
+    "name": "TH CÀ MAU",
+    "data_id": 222,
+    "img": "camau.png",
+    "group": "htvc"
+  },
+  {
+    "id": 99,
+    "name": "TH KIÊN GIANG",
+    "data_id": 221,
+    "img": "kiengiang.png",
+    "group": "htvc"
+  },
+  {
+    "id": 100,
+    "name": "BBC earth",
+    "data_id": 63,
+    "img": "bbcearth.png",
+    "group": "htvc"
+  },
+  {
+    "id": 101,
+    "name": "Discovery",
+    "data_id": 71,
+    "img": "discovery.png",
+    "group": "htvc"
+  },
+  {
+    "id": 102,
+    "name": "Discovery Asia",
+    "data_id": 142,
+    "img": "discoveryasia.png",
+    "group": "htvc"
+  },
+  {
+    "id": 103,
+    "name": "National Geographic HD",
+    "data_id": 134,
+    "img": "nationalgeographichd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 104,
+    "name": "National Geographic Wild HD",
+    "data_id": 330,
+    "img": "nationalgeographicwildhd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 105,
+    "name": "VTV7",
+    "data_id": 195,
+    "img": "vtv7.png",
+    "group": "htvc"
+  },
+  {
+    "id": 106,
+    "name": "BTV4 (Imovie)",
+    "data_id": 176,
+    "img": "imovie.png",
+    "group": "htvc"
+  },
+  {
+    "id": 107,
+    "name": "Cinema World HD",
+    "data_id": 67,
+    "img": "cinemaworld.png",
+    "group": "htvc"
+  },
+  {
+    "id": 108,
+    "name": "FOX Family Movies",
+    "data_id": 275,
+    "img": "foxmoviesfamily.png",
+    "group": "htvc"
+  },
+  {
+    "id": 109,
+    "name": "FOX Movies HD",
+    "data_id": 136,
+    "img": "foxmovieshd.png",
+    "group": "htvc"
+  },
+  {
+    "id": 110,
+    "name": "HBO",
+    "data_id": 58,
+    "img": "hbo.png",
+    "group": "htvc"
+  },
+  {
+    "id": 111,
+    "name": "Max By HBO",
+    "data_id": 59,
+    "img": "maxhbo.png",
+    "group": "htvc"
+  },
+  {
+    "id": 112,
+    "name": "Red By HBO HD",
+    "data_id": 61,
+    "img": "redhbo.png",
+    "group": "htvc"
+  },
+  {
+    "id": 113,
+    "name": "Warner TV HD",
+    "data_id": 139,
+    "img": "warnertv.png",
+    "group": "htvc"
+  },
+  {
+    "id": 114,
+    "name": "Fox Sports HD",
+    "data_id": 143,
+    "img": "fox_sports.png",
+    "group": "htvc"
+  },
+  {
+    "id": 115,
+    "name": "HTV Thể thao",
+    "data_id": 21,
+    "img": "htvthethao.png",
+    "group": "htvc"
+  },
+  {
+    "id": 116,
+    "name": "VTVcab 16 (Bóng Đá TV)",
+    "data_id": 238,
+    "img": "bongdatv.png",
+    "group": "htvc"
+  },
+  {
+    "id": 117,
+    "name": "VTVCab 3 (Thể thao TV)",
+    "data_id": 100,
+    "img": "thethaotv.png",
+    "group": "htvc"
+  },
+  {
+    "id": 118,
+    "name": "Cartoon Network",
+    "data_id": 53,
+    "img": "cartoon.jpg",
+    "group": "htvc"
+  },
+  {
+    "id": 119,
+    "name": "Da Vinci ",
+    "data_id": 70,
+    "img": "davince.png",
+    "group": "htvc"
+  },
+  {
+    "id": 120,
+    "name": "Disney Junior",
+    "data_id": 51,
+    "img": "disneyjunior.png",
+    "group": "htvc"
+  },
+  {
+    "id": 121,
+    "name": "BBC World News",
+    "data_id": 171,
+    "img": "bbcworldnews.jpg",
+    "group": "htvc"
+  },
+  {
+    "id": 122,
+    "name": "Bloomberg",
+    "data_id": 65,
+    "img": "bloomberg.png",
+    "group": "htvc"
+  },
+  {
+    "id": 123,
+    "name": "K+1 HD",
+    "data_id": 7008,
+    "img": "k+1hd.png",
+    "group": "k"
+  },
+  {
+    "id": 124,
+    "name": "K+PM HD",
+    "data_id": 7012,
+    "img": "k+pmhd.png",
+    "group": "k"
+  },
+  {
+    "id": 125,
+    "name": "K+PC HD",
+    "data_id": 7014,
+    "img": "k+pchd.png",
+    "group": "k"
+  },
+  {
+    "id": 126,
+    "name": "K+NS HD",
+    "data_id": 7010,
+    "img": "k+nshd.png",
+    "group": "k"
+  },
+  {
+    "id": 127,
+    "name": "K+1",
+    "data_id": 7009,
+    "img": "k+1.png",
+    "group": "k"
+  },
+  {
+    "id": 128,
+    "name": "K+PM",
+    "data_id": 7013,
+    "img": "k+pm.png",
+    "group": "k"
+  },
+  {
+    "id": 129,
+    "name": "K+PC",
+    "data_id": 7015,
+    "img": "k+pc.png",
+    "group": "k"
+  },
+  {
+    "id": 130,
+    "name": "K+NS",
+    "data_id": 7011,
+    "img": "k+ns.png",
+    "group": "k"
+  },
+  {
+    "id": 131,
+    "name": "HITS SD",
+    "data_id": 161300,
+    "img": "hits.png",
+    "group": "k"
+  },
+  {
+    "id": 132,
+    "name": "MTV Vietnam",
+    "data_id": 4533,
+    "img": "mtv.png",
+    "group": "k"
+  },
+  {
+    "id": 133,
+    "name": "DISNEY JUNIOR",
+    "data_id": 7062,
+    "img": "disneyjunior.png",
+    "group": "k"
+  },
+  {
+    "id": 134,
+    "name": "CARTOON NETWORK",
+    "data_id": 7063,
+    "img": "cartoon.jpg",
+    "group": "k"
+  },
+  {
+    "id": 135,
+    "name": "DISNEY",
+    "data_id": 4536,
+    "img": "disney.png",
+    "group": "k"
+  },
+  {
+    "id": 136,
+    "name": "BTV1",
+    "data_id": 161296,
+    "img": "btv1.png",
+    "group": "k"
+  },
+  {
+    "id": 137,
+    "name": "THVL1",
+    "data_id": 2573193,
+    "img": "thvinhlong.png",
+    "group": "k"
+  },
+  {
+    "id": 138,
+    "name": "THVL2",
+    "data_id": 2573195,
+    "img": "thvinhlong2.png",
+    "group": "k"
+  },
+  {
+    "id": 139,
+    "name": "VTV1 HD",
+    "data_id": 7016,
+    "img": "VTV1_HD_M.png",
+    "group": "k"
+  },
+  {
+    "id": 140,
+    "name": "VTV3 HD",
+    "data_id": 7017,
+    "img": "VTV3_HD_M.jpg",
+    "group": "k"
+  },
+  {
+    "id": 141,
+    "name": "VTV6 HD",
+    "data_id": 7018,
+    "img": "VTV6_HD_M.jpg",
+    "group": "k"
+  },
+  {
+    "id": 142,
+    "name": "HTV7",
+    "data_id": 4550,
+    "img": "htv7.png",
+    "group": "k"
+  },
+  {
+    "id": 143,
+    "name": "VTV1",
+    "data_id": 4476,
+    "img": "vtv1.png",
+    "group": "k"
+  },
+  {
+    "id": 144,
+    "name": "VTV2",
+    "data_id": 4478,
+    "img": "vtv2.png",
+    "group": "k"
+  },
+  {
+    "id": 145,
+    "name": "VTV3",
+    "data_id": 4480,
+    "img": "vtv3.png",
+    "group": "k"
+  },
+  {
+    "id": 146,
+    "name": "VTV4",
+    "data_id": 4481,
+    "img": "vtv4.png",
+    "group": "k"
+  },
+  {
+    "id": 147,
+    "name": "VTV5",
+    "data_id": 4483,
+    "img": "vtv5.png",
+    "group": "k"
+  },
+  {
+    "id": 148,
+    "name": "VTV6",
+    "data_id": 4485,
+    "img": "vtv6.png",
+    "group": "k"
+  },
+  {
+    "id": 149,
+    "name": "VTV9",
+    "data_id": 4486,
+    "img": "vtv9.png",
+    "group": "k"
+  },
+  {
+    "id": 150,
+    "name": "QTV1",
+    "data_id": 4554,
+    "img": "quangninh.png",
+    "group": "k"
+  },
+  {
+    "id": 151,
+    "name": "ANTV",
+    "data_id": 4555,
+    "img": "antv.png",
+    "group": "k"
+  },
+  {
+    "id": 152,
+    "name": "DW",
+    "data_id": 161294,
+    "img": "dw.png",
+    "group": "k"
+  },
+  {
+    "id": 153,
+    "name": "FRANCE 24",
+    "data_id": 161298,
+    "img": "france24.png",
+    "group": "k"
+  },
+  {
+    "id": 154,
+    "name": "NGC HD",
+    "data_id": 7077,
+    "img": "nationalgeographichd.png",
+    "group": "k"
+  },
+  {
+    "id": 155,
+    "name": "DISCOVERY HD",
+    "data_id": 7078,
+    "img": "discovery.png",
+    "group": "k"
+  },
+  {
+    "id": 156,
+    "name": "DISCOVERY CHANNEL",
+    "data_id": 7057,
+    "img": "discovery.png",
+    "group": "k"
+  },
+  {
+    "id": 157,
+    "name": "AFC",
+    "data_id": 4529,
+    "img": "afc.png",
+    "group": "k"
+  },
+  {
+    "id": 158,
+    "name": "VTVCab10-O2 TV",
+    "data_id": 7046,
+    "img": "o2tv.png",
+    "group": "k"
+  },
+  {
+    "id": 159,
+    "name": "VTC1",
+    "data_id": 7069,
+    "img": "vtc1.png",
+    "group": "k"
+  },
+  {
+    "id": 160,
+    "name": "NGC",
+    "data_id": 4525,
+    "img": "nationalgeographichd.png",
+    "group": "k"
+  },
+  {
+    "id": 161,
+    "name": "HBO HD",
+    "data_id": 7035,
+    "img": "hbo.png",
+    "group": "k"
+  },
+  {
+    "id": 162,
+    "name": "AXN HD",
+    "data_id": 7036,
+    "img": "axnhd.png",
+    "group": "k"
+  },
+  {
+    "id": 163,
+    "name": "FOX MOVIES HD",
+    "data_id": 7037,
+    "img": "foxmovies.png",
+    "group": "k"
+  },
+  {
+    "id": 164,
+    "name": "CINEMAX",
+    "data_id": 4493,
+    "img": "cinemax.png",
+    "group": "k"
+  },
+  {
+    "id": 165,
+    "name": "HBO",
+    "data_id": 4495,
+    "img": "hbo.png",
+    "group": "k"
+  },
+  {
+    "id": 166,
+    "name": "AXN",
+    "data_id": 4497,
+    "img": "axn.png",
+    "group": "k"
+  },
+  {
+    "id": 167,
+    "name": "STAR MOVIES",
+    "data_id": 7038,
+    "img": "starmovie.png",
+    "group": "k"
+  },
+  {
+    "id": 168,
+    "name": "TV5 MONDE",
+    "data_id": 7068,
+    "img": "tv5.png",
+    "group": "k"
+  },
+  {
+    "id": 169,
+    "name": "KBS WORLD",
+    "data_id": 7054,
+    "img": "kbsworld.png",
+    "group": "k"
+  },
+  {
+    "id": 170,
+    "name": "VTC7-TODAY TV",
+    "data_id": 7049,
+    "img": "todaytv.png",
+    "group": "k"
+  },
+  {
+    "id": 171,
+    "name": "VTVCab1-GIAITRITV",
+    "data_id": 4508,
+    "img": "giaitritv.png",
+    "group": "k"
+  },
+  {
+    "id": 172,
+    "name": "YOU TV",
+    "data_id": 7079,
+    "img": "youtv.png",
+    "group": "k"
+  },
+  {
+    "id": 173,
+    "name": "FOX SPORTS PLUS HD",
+    "data_id": 7042,
+    "img": "foxsportshd.png",
+    "group": "k"
+  },
+  {
+    "id": 174,
+    "name": "FOX SPORTS",
+    "data_id": 7043,
+    "img": "foxsportshd.png",
+    "group": "k"
+  },
+  {
+    "id": 175,
+    "name": "FOX SPORTS 2",
+    "data_id": 7044,
+    "img": "foxsports2.png",
+    "group": "k"
+  },
+  {
+    "id": 176,
+    "name": "VTVCab3-THETHAO TV",
+    "data_id": 7039,
+    "img": "thethaotv.png",
+    "group": "k"
+  },
+  {
+    "id": 177,
+    "name": "VTVCab16-BONGDA TV",
+    "data_id": 7040,
+    "img": "bongdatv.png",
+    "group": "k"
+  },
+  {
+    "id": 178,
+    "name": "VTV1",
+    "data_id": 0,
+    "img": "vtv1.png",
+    "group": "vtv"
+  },
+  {
+    "id": 179,
+    "name": "VTV2",
+    "data_id": 0,
+    "img": "vtv2.png",
+    "group": "vtv"
+  },
+  {
+    "id": 180,
+    "name": "VTV3",
+    "data_id": 0,
+    "img": "vtv3.png",
+    "group": "vtv"
+  },
+  {
+    "id": 181,
+    "name": "VTV4",
+    "data_id": 0,
+    "img": "vtv4.png",
+    "group": "vtv"
+  },
+  {
+    "id": 182,
+    "name": "VTV5",
+    "data_id": 0,
+    "img": "vtv5.png",
+    "group": "vtv"
+  },
+  {
+    "id": 183,
+    "name": "VTV5 Tây Nam Bộ",
+    "data_id": 0,
+    "img": "vtv5hdtaynambo.png",
+    "group": "vtv"
+  },
+  {
+    "id": 184,
+    "name": "VTV5 Tây Nguyên",
+    "data_id": 0,
+    "img": "vtv5taynguyen.png",
+    "group": "vtv"
+  },
+  {
+    "id": 185,
+    "name": "VTV6",
+    "data_id": 0,
+    "img": "vtv6.png",
+    "group": "vtv"
+  },
+  {
+    "id": 186,
+    "name": "VTV7",
+    "data_id": 0,
+    "img": "vtv7.png",
+    "group": "vtv"
+  },
+  {
+    "id": 187,
+    "name": "VTV8",
+    "data_id": 0,
+    "img": "vtv8.png",
+    "group": "vtv"
+  },
+  {
+    "id": 188,
+    "name": "VTV9",
+    "data_id": 0,
+    "img": "vtv9.png",
+    "group": "vtv"
+  },
+  {
+    "id": 189,
+    "name": "VTVcab 1 -  Vie GIẢITRÍ",
+    "data_id": 224,
+    "img": "vtvcab1.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 190,
+    "name": "VTVcab 2 - Phim Việt",
+    "data_id": 4077,
+    "img": "vtvcab2.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 191,
+    "name": "VTVcab 3 - Thể Thao TV",
+    "data_id": 226,
+    "img": "thethaotv.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 192,
+    "name": "VTVcab 4",
+    "data_id": 227,
+    "img": "VAN_HOA_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 193,
+    "name": "VTVcab 5 - E Channel",
+    "data_id": 228,
+    "img": "E_CHANNEL_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 194,
+    "name": "VTVcab 6 - Hay TV",
+    "data_id": 229,
+    "img": "HAY_TV_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 195,
+    "name": "VTVcab 10 - Vie DRAMAS",
+    "data_id": 232,
+    "img": "vtvcab10.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 196,
+    "name": "VTVcab 8 - BiBi",
+    "data_id": 4068,
+    "img": "BIBI_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 197,
+    "name": "VTVcab 9 - InfoTV",
+    "data_id": 4291,
+    "img": "INFO_TV_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 198,
+    "name": "VTVcab 7",
+    "data_id": 4069,
+    "img": "D_DRAMAS_HD_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 199,
+    "name": "VTVcab 12 - Style TV HD",
+    "data_id": 4079,
+    "img": "STYLE_TV_HD_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 200,
+    "name": "VTVcab 15",
+    "data_id": 355,
+    "img": "vtvcab15.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 201,
+    "name": "VTVcab 16 - Bóng đá TV",
+    "data_id": 4080,
+    "img": "bongdatv.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 202,
+    "name": "VTVcab 18 - Thể thao Tin tức HD",
+    "data_id": 16732,
+    "img": "THETHAO_TINTUC_HD_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 203,
+    "name": "VTVcab 17 - Yeah1 TV",
+    "data_id": 4070,
+    "img": "yeah1tv.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 204,
+    "name": "VTVcab 19 - Kênh Phim",
+    "data_id": 4071,
+    "img": "FILM_TV_M.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 205,
+    "name": "VTVcab 20 - V Family",
+    "data_id": 17134,
+    "img": "vfamily.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 206,
+    "name": "VTVcab 21 - Cartoon Kids",
+    "data_id": 30114,
+    "img": "BIBIPLUS_HD_M.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 207,
+    "name": "VTVcab 22 - LifeTV",
+    "data_id": 25105,
+    "img": "LifeTV.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 208,
+    "name": "VTVcab 23 - Thể thao Golf",
+    "data_id": 28429,
+    "img": "golf.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 209,
+    "name": "Thể thao TV HD",
+    "data_id": 4078,
+    "img": "thethaotv.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 210,
+    "name": "Bóng đá TV HD",
+    "data_id": 4710,
+    "img": "bongdatv.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 211,
+    "name": "Asian Food Channel",
+    "data_id": 30122,
+    "img": "afc.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 212,
+    "name": "Blue Ant Entertainment",
+    "data_id": 30119,
+    "img": "blueant.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 213,
+    "name": "Blue Ant Extreme",
+    "data_id": 30118,
+    "img": "blueantex.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 214,
+    "name": "BOX Movie 1",
+    "data_id": 30109,
+    "img": "boxmovie.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 215,
+    "name": "Da Vinci",
+    "data_id": 30125,
+    "img": "davince.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 216,
+    "name": "Diva Universal",
+    "data_id": 4102,
+    "img": "diva.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 217,
+    "name": "Dr. Fit",
+    "data_id": 30110,
+    "img": "DF_M.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 218,
+    "name": "FOX",
+    "data_id": 30117,
+    "img": "foxhd.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 219,
+    "name": "FOX Life HD",
+    "data_id": 4698,
+    "img": "foxlife.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 220,
+    "name": "FOX Movies HD",
+    "data_id": 4703,
+    "img": "foxmovieshd.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 221,
+    "name": "Happy Kids",
+    "data_id": 30113,
+    "img": "BIBIPLUS_HD_M.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 222,
+    "name": "HGTV HD",
+    "data_id": 31983,
+    "img": "hagiang.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 223,
+    "name": "History",
+    "data_id": 30124,
+    "img": "history.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 224,
+    "name": "HITS HD",
+    "data_id": 31982,
+    "img": "hits.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 225,
+    "name": "Hollywood Classics",
+    "data_id": 30133,
+    "img": "howllywoodclassic.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 226,
+    "name": "Kix",
+    "data_id": 30123,
+    "img": "kixhd.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 227,
+    "name": "Planet Earth",
+    "data_id": 30115,
+    "img": "PlanetEarth.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 228,
+    "name": "Outdoor Channel HD",
+    "data_id": 30126,
+    "img": "outdoor.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 229,
+    "name": "Fashion TV HD",
+    "data_id": 4697,
+    "img": "fashsionhd.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 230,
+    "name": "FOXSPORTS",
+    "data_id": 33186,
+    "img": "foxsportshd.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 231,
+    "name": "Waku Waku Japan",
+    "data_id": 30141,
+    "img": "WWJ_M.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 232,
+    "name": "Woman",
+    "data_id": 30111,
+    "img": "WO_M.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 233,
+    "name": "CARTOON  NETWORK",
+    "data_id": 33187,
+    "img": "cartoon.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 234,
+    "name": "CNN",
+    "data_id": 4401,
+    "img": "cnn.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 235,
+    "name": "BBC World News",
+    "data_id": 4403,
+    "img": "bbcworldnews.jpg",
+    "group": "vtvcab"
+  },
+  {
+    "id": 236,
+    "name": "Bloomberg",
+    "data_id": 62,
+    "img": "bloomberg.png",
+    "group": "vtvcab"
+  },
+  {
+    "id": 237,
+    "name": "HaNoiTV1",
+    "data_id": 265,
+    "img": "hanoi1.png",
+    "group": "hanoitv"
+  },
+  {
+    "id": 238,
+    "name": "HaNoiTV2",
+    "data_id": 266,
+    "img": "hanoi2.png",
+    "group": "hanoitv"
+  },
+  {
+    "id": 239,
+    "name": "HaNoi FM90",
+    "data_id": 267,
+    "img": "hanoifm90.png",
+    "group": "hanoitv"
+  },
+  {
+    "id": 240,
+    "name": "HaNoi FM96",
+    "data_id": 268,
+    "img": "hanoifm96.png",
+    "group": "hanoitv"
+  },
+  {
+    "id": 241,
+    "name": "THVL1",
+    "data_id": "THVL1",
+    "img": "VINHLONG1_HD_M.jpg",
+    "group": "thvl"
+  },
+  {
+    "id": 242,
+    "name": "THVL2",
+    "data_id": "THVL2",
+    "img": "VINHLONG2_HD_M.png",
+    "group": "thvl"
+  },
+  {
+    "id": 243,
+    "name": "THVL3",
+    "data_id": "THVL3",
+    "img": "THVL3.jpg",
+    "group": "thvl"
+  },
+  {
+    "id": 244,
+    "name": "Truyền thanh Vĩnh Long",
+    "data_id": "PT",
+    "img": "pt-thvl.png",
+    "group": "thvl"
+  },
+  {
+    "id": 245,
+    "name": "HTV1",
+    "data_id": "11",
+    "img": "htv1.png",
+    "group": "htv"
+  },
+  {
+    "id": 246,
+    "name": "HTV2",
+    "data_id": "12",
+    "img": "htv2.png",
+    "group": "htv"
+  },
+  {
+    "id": 247,
+    "name": "HTV3",
+    "data_id": "13",
+    "img": "htv3.png",
+    "group": "htv"
+  },
+  {
+    "id": 248,
+    "name": "HTV4",
+    "data_id": "14",
+    "img": "htv4.png",
+    "group": "htv"
+  },
+  {
+    "id": 249,
+    "name": "HTV7",
+    "data_id": "1",
+    "img": "htv7.png",
+    "group": "htv"
+  },
+  {
+    "id": 250,
+    "name": "HTV9",
+    "data_id": "3",
+    "img": "htv9.png",
+    "group": "htv"
+  },
+  {
+    "id": 251,
+    "name": "HTV Thể thao",
+    "data_id": "10",
+    "img": "htvthethao.png",
+    "group": "htv"
+  },
+  {
+    "id": 252,
+    "name": "FOX LIFE",
+    "data_id": "7052",
+    "img": "foxlife.png",
+    "group": "k"
+  },
+  {
+    "id": 253,
+    "name": "NHK WORLD JAPAN",
+    "data_id": "7070",
+    "img": "nhk.png",
+    "group": "k"
+  },
+  {
+    "id": 254,
+    "name": "HTV2",
+    "data_id": "4518",
+    "img": "htv2.png",
+    "group": "k"
+  },
+  {
+    "id": 255,
+    "name": "VOV1",
+    "data_id": "VOV1",
+    "img": "vov1.jpg",
+    "group": "vov"
+  },
+  {
+    "id": 256,
+    "name": "VOV2",
+    "data_id": "VOV2",
+    "img": "vov2.png",
+    "group": "vov"
+  },
+  {
+    "id": 257,
+    "name": "VOV3",
+    "data_id": "VOV3",
+    "img": "vov3.png",
+    "group": "vov"
+  },
+  {
+    "id": 258,
+    "name": "VOV4",
+    "data_id": "VOV4",
+    "img": "vov4.jpg",
+    "group": "vov"
+  },
+  {
+    "id": 259,
+    "name": "VOVTV",
+    "data_id": "VOVTV",
+    "img": "vovtv.jpg",
+    "group": "vov"
+  },
+  {
+    "id": 260,
+    "name": "VOVGT Hà Nội",
+    "data_id": "1",
+    "img": "vovgthn.png",
+    "group": "vovgiaothong"
+  },
+  {
+    "id": 261,
+    "name": "VOVGT TP HCM",
+    "data_id": "2",
+    "img": "vovgthcm.png",
+    "group": "vovgiaothong"
+  },
+  {
+    "id": 262,
+    "name": "VOVGT MEKONG",
+    "data_id": "3",
+    "img": "vovgtmekong.png",
+    "group": "vovgiaothong"
+  }
+]

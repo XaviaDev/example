@@ -1,0 +1,64 @@
+{
+  "email": "abc@gmail.com",
+  "enable": true,
+  "later": 0,
+  "trigger": 48,
+  "interval": 4,
+  "minCode": 0,
+  "ads": {
+    "items": 4,
+    "ids": {
+      "admob": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "rxadmob": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "fan": {
+        "b": "n_706171093211445_706172406544647,706171093211445_706171849878036",
+        "m": "706171093211445_706172643211290",
+        "n": "706171093211445_706172849877936",
+        "p": "706171093211445_706172989877922",
+        "r": ""
+      },
+      "startapp": "207129026",
+      "unity": "1502445"
+    },
+    "delay": 0,
+    "type": {
+      "b": "fan,admob,unity,startapp",
+      "n": "fan,admob,unity,startapp",
+      "p": {
+        "net": "",
+        "click": "fan,admob,unity,startapp",
+        "close": "",
+        "lock": "",
+        "load": "",
+        "switch": "fan,admob,unity,startapp",
+        "gift": "",
+        "open": "fan,admob,unity,startapp"
+      }
+    },
+    "priority": "fan,admob,unity,startapp",
+    "random": false
+  },
+  "update": {
+    "f": true,
+    "ver": 1,
+    "des": "1.Ultraviolet (UV) index#2.Sunrise and sunset time#3.7-day forecast#4.Daily temperature predictions, with daily highs and lows",
+    "apk": "app.apk"
+  },
+  "app": {
+    "sim": "vn",
+    "resource": "7,3",
+    "policy": "https://sites.google.com/view/appspro-privacy"
+  }
+}

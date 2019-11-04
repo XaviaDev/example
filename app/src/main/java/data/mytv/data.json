@@ -1,0 +1,4564 @@
+[
+  {
+    "title": "Kênh VTV",
+    "item": [
+      {
+        "title": "VTV1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV1HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv1hd.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv1-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv2-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv2-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv2-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv2-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV3",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv3.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV3HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv3hd.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv3-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV4",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv4.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv4-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv4-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv4-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv4-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv4-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv4-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV5",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv5.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv5-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv5-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv5-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv5-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv5-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv5-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV6",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv6.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV6HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv6hd.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv6-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV7",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv7.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv7-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv7-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv7-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv7-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv7-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv7-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV8",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv8.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv8.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv8-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv8-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv8-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv8-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv8-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv8-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTV9",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtv9.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv9.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv9-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv9-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv9-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv9-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv9-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtv9-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab5",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtvcab5.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab5-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab5-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh VTV Cab",
+    "item": [
+      {
+        "title": "VTVCab2",
+        "img": "https://lh3.googleusercontent.com/-ld-M-6oMHrg/VixvobxCpLI/AAAAAAAAAyo/rthYcTn5g4w/s128-Ic42/vtvcab2.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab2-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab3",
+        "img": "https://lh3.googleusercontent.com/-BxmaBDecIo4/VixvoptL8HI/AAAAAAAAAyk/pBgW9T6hRhc/s128-Ic42/vtvcab3.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab3-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab3-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab5",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtvcab5.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab5-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab5-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab5.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab5-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab5-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab5-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab7",
+        "img": "https://lh3.googleusercontent.com/-g_BXhyL3X18/VixvpYdmq-I/AAAAAAAAAwM/6r-LOZKrFvg/s128-Ic42/vtvcab7.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab7.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab7-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab8",
+        "img": "https://lh3.googleusercontent.com/-sAnF5KUMa20/VixvppTF9EI/AAAAAAAAAyY/iIStF2VeRaM/s128-Ic42/vtvcab8.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/vtvcab/vtvcab81.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab8.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab8-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab9",
+        "img": "https://lh3.googleusercontent.com/-ph3GXnN5YKc/Vixvp5izzmI/AAAAAAAAAyU/lgW10wPpaBk/s128-Ic42/vtvcab9.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab9.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab9-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab10",
+        "img": "https://lh3.googleusercontent.com/-PmCBDvS_Ues/VixvneMjcsI/AAAAAAAAAvc/OYl5sSZfdOE/s128-Ic42/vtvcab10.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab10.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab10-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab16",
+        "img": "https://lh3.googleusercontent.com/-Idi2AJNeRIc/VixvoOf4-dI/AAAAAAAAAvs/TyGCK3J4Pvs/s128-Ic42/vtvcab16.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab16.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab16-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab16-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTVCab20",
+        "img": "https://lh3.googleusercontent.com/-0qQA5Hv30ms/VlXMrRNODZI/AAAAAAAABno/maHvxMatla4/s128-Ic42/vtvcab20.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab20.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtvcab20-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh VTC",
+    "item": [
+      {
+        "title": "VTC1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc1-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc1-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC3",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc3.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc3-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc3-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc3-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc3-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC4",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc4.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc4-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc4-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc4-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc4-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC5",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc5.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc5-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC6",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc6.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc6-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc6-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc6-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc6-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC7",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc7.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc7-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc7-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc7-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc7-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC8",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc8.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc8.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc8-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc8-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc8-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc8-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC9",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc9.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc9.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc9-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc9-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc9-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc9-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC10",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc10.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc10.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc10-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc10-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc10-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc10-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC11",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc11.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc11.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc11-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc11-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc11-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc11-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC12",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc12.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc12.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc12-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc12-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc12-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc12-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC13",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc13.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC14",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc14.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc14.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc14-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc14-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc14-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc14-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTC16",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vtc16.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc16.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc16-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc16-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc16-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc16-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTCHD1",
+        "img": "https://lh3.googleusercontent.com/-BAOSqn-C_d8/VixvfN7LzwI/AAAAAAAAArw/tz18p828yhw/s128-Ic42/vtc1hd.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtc1.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc1-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc1-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc1-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc1-5.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc1-6.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTCHD2",
+        "img": "https://lh3.googleusercontent.com/-lUMown6C0e0/VixvflpSxuI/AAAAAAAAAsM/OBzfyquRitA/s128-Ic42/vtc2hd.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtc2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc2-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc2-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc2-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc2-5.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc2-6.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VTCHD3",
+        "img": "https://lh3.googleusercontent.com/-4QTtl-3MYrM/VixvgFWkzYI/AAAAAAAAAsc/PiLsOxEv2HU/s128-Ic42/vtc3hd.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/vtc3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc3-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc3-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc3-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc3-5.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/vtc3-6.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh HTV",
+    "item": [
+      {
+        "title": "HTV1",
+        "img": "https://lh3.googleusercontent.com/-jPTxx7ijNW0/VpxAfun8fzI/AAAAAAAAANU/Z9gByBFi8po/h120/htv1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv1-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv1-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV2",
+        "img": "https://lh3.googleusercontent.com/-kjC72CWJ-QI/VpxAf0RmaOI/AAAAAAAAANY/aZX34auMMng/h120/htv2.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv21.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv2-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv2-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV3",
+        "img": "https://lh3.googleusercontent.com/-gQZJ8wcwVGA/VpxAgED0tmI/AAAAAAAAANQ/SKQS47ZxOuk/h120/htv3.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv31.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv3-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv3-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv3-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv3-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV4",
+        "img": "https://lh3.googleusercontent.com/-XyvAIIjl868/VpxAgyDbAPI/AAAAAAAAANc/tW0KGE_svUA/h120/htv4.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv4-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv4-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv4-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv4-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV7",
+        "img": "https://lh3.googleusercontent.com/-OFVARyzqrp4/VpxAhO6A6AI/AAAAAAAAANg/_AL8upxPg-s/h120/htv7.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV7HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv7hd.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv71.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv7-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV9",
+        "img": "https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV9HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv9hd.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htv91.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv9-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV The Thao",
+        "img": "https://lh3.googleusercontent.com/-dDgNzf4LYgk/VpxAjjDuOqI/AAAAAAAAAOQ/_otddw_NWYU/h120/htvthethao.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv-thethao.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv-thethao-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv-thethao-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv-thethao-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/htv-thethao-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV Gia Đình",
+        "img": "https://lh3.googleusercontent.com/-3EbgGXSCk2o/VpxAiFfaetI/AAAAAAAAAOA/4IWtZC_Sle4/h120/htvgiadinh.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htvgiadinh1.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "HTV Shopping",
+        "img": "https://lh3.googleusercontent.com/-PuYe9NZYpmU/VpxAjjHGxlI/AAAAAAAAAOU/X0qRRvtMQWE/h120/htvshopping.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htvshop1.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "HTV Du lịch và cuộc sống",
+        "img": "https://lh3.googleusercontent.com/-G9mQcv7J7Kc/VpxAh8Rb65I/AAAAAAAAANs/xdMi4n-ARNs/h120/htvdulich.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/htv/htvdulich1.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "HTV Ca nhac",
+        "img": "https://lh3.googleusercontent.com/-2pXIrXYBFu8/VpxAhplRRnI/AAAAAAAAANw/8ounGrKt0aw/h120/htvcanhac.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/htv-nhac.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-nhac-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-nhac-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV Phim",
+        "img": "https://lh3.googleusercontent.com/-15l4hXh_rrE/VixvG62C_1I/AAAAAAAAAio/Hwo-geHJL8s/s128-Ic42/phim.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/htv-phim.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-phim-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-phim-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV Phu nu",
+        "img": "https://lh3.googleusercontent.com/-UFasOGZJ5dM/VpxAjO0ukFI/AAAAAAAAAN8/N5OT2BmLoAM/h120/htvphunu.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/htv-phunu.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-phunu-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-phunu-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HTV Thuan viet",
+        "img": "https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/htv-thuanviet.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-thuanviet-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/htv-thuanviet-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh SCTV",
+    "item": [
+      {
+        "title": "SCTV1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv1.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/sctv/sctv11.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv1.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv1-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv2.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/sctv/sctv21.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv2-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV3",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv3.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv3-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv3-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV4",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv4.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv4-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv4-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV5",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv5.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv5-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv5.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv5-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV6",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv6.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv6-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv6.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv6-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV7",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv7.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv7-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv7.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv7-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV8",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv8.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv8.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv8-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv8.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv8-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV9",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv9.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv9.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv9-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv9.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv9-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV10",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv10.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv10.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv10-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv10.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv10-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV11",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv11.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/sctv/sctv111.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv11.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv11-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv11.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv11-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV12",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv12.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv12.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv12-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv12.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv12-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV13",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv13.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv13.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv13-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv13.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv13-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV14",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv14.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv14.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv14-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv14.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv14-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV15",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv15.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/sctv/sctv151.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv15.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv15-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv15.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv15-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv15-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV16",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv16.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv16.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv16-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv16.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv16-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV17",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv17.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv17.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv17-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv17.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv17-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv17-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "SCTV18-SCTVHD The Thao",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/sctv18.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv18.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/sctv18-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv18.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/sctv18-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh Thể Thao",
+    "item": [
+      {
+        "title": "Bong da TV HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/bongdatvhd.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab16.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab16-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab16-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "The Thao TV HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/thethaotvhd.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab3-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtvcab3-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "K+1 HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/kplus.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "K+PM HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/kpm.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "K+PC HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/kpc.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "K+NS HD",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/kns.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/k-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "BTV5",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhduong5.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/btv5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/btv5-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Fox Sports",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/fox.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/fox1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fox.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fox-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fox-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Fox Sports 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/fox2.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/fox21.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fox2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fox2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fox2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh Tổng hợp",
+    "item": [
+      {
+        "title": "Cinemax",
+        "img": "https://lh3.googleusercontent.com/-lfSpgDMJjgM/VixuoYvwm8I/AAAAAAAAAXM/5OwmOlBxiNU/s128-Ic42/cinemax.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/cinemax.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/cinemax-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/cinemax-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/cinemax-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "TTXVN",
+        "img": "https://lh3.googleusercontent.com/-kOB2sK9bsE8/VixvWPQr5HI/AAAAAAAAAy0/clQj7cnGz_o/s128-Ic42/ttxvn.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/ttxvn.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/ttxvn-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/ttxvn-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/ttxvn-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "MovieStar HD",
+        "img": "https://lh3.googleusercontent.com/-JJ7pZaXf2wA/VixvRNYoQ4I/AAAAAAAAAms/D8qWzXvOcUQ/s128-Ic42/starmovieshd.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/starmovies11.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/movies.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/movies-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/movies-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/movies-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HBO",
+        "img": "https://lh3.googleusercontent.com/-Z1gl53VuExQ/Vixuy8Htv6I/AAAAAAAAAzA/aTRvA2gr-Dk/s105-Ic42/hbo1.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/hbo11.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://tivis.101vn.com/ok/nuocngoai/hbo_1.php",
+            "Referer": "http://tivis.101vn.com/",
+            "type": 1
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/hbo.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/hbo-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/hbo-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/hbo-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hbo.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hbo-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hbo-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hbo-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "HBO HD",
+        "img": "https://lh3.googleusercontent.com/-ND6pkK5X5xM/WYrFmcaHUBI/AAAAAAAADls/gop9irY6lxQvT_MYdMg1mzZK3A7gWj6fwCLcBGAs/h99/hbo-hd_w500_h500.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/hbo11.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Max HBO",
+        "img": "https://lh3.googleusercontent.com/-eMIcL7uB5ZA/WYq33-BDMkI/AAAAAAAADlM/sq5L2k6vZUcqANUC1YDtnYXgjhAspUkUACEwYBhgL/w140-h66-p/9740642-logo-max-by-hbo.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/maxhbo1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Warner TV",
+        "img": "https://lh3.googleusercontent.com/-YcgSPgdsGII/W1itSVQrMCI/AAAAAAAAEH0/epOz2aD3x6QTAbO8xRXrEkgN-vhw8ucSACLcBGAs/h120/warnertvvip.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/warner1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Red HBO",
+        "img": "https://lh3.googleusercontent.com/-W0nJPWHMsxU/W1iti8X3vmI/AAAAAAAAEIQ/w0xEMSsV6HwFUTqcIgoZgTLNRdEN-ep5ACEwYBhgL/w140-h70-p/redhbovip.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/redhbo1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Ariang",
+        "img": "https://lh3.googleusercontent.com/--A7ZMZRlIzs/VpxATS9xGSI/AAAAAAAAAIs/BZ1jYsn_PkQ/h120/arirang.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/arirang1.php",
+            "Referer": "http://sv.tvmienphi.net",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Boomerang",
+        "img": "https://lh3.googleusercontent.com/-iWitqgFmhGM/WtiN9oMnzcI/AAAAAAAAEBg/0-LgYC4piGgGw-eKv2KKwz3Yq3kAT37EQCLcBGAs/h120/1200px-Boomerang_2014_logo.svg.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/boomerang1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Cinemaworld",
+        "img": "https://lh3.googleusercontent.com/-SSNrUI2r1jA/WYrQnrfBAgI/AAAAAAAADmA/LK-p2Ar3oTs7s5mCXKgnhQ01OBmQbdx-ACLcBGAs/h120/614-cinema-world-on-demand.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/cinemaworld1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Fox Life",
+        "img": "https://lh3.googleusercontent.com/-0aefU3wotlk/W1lgnrkJjjI/AAAAAAAAEIs/mwqLnvppanYpEIz8A6CzFQsKbpoz-TSwwCEwYBhgL/w140-h70-p/foxmoviesvip.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/starworld1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "title": "Fox Movies",
+        "img": "https://lh3.googleusercontent.com/-YyF_5JgtFW4/W1lnfLphxqI/AAAAAAAAEI4/ASEniibFLNIuO949G864Cqm7slhufewOgCEwYBhgL/w140-h70-p/foxmoviesvip.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/starmovies11.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/starmovies12.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "AXN",
+        "img": "https://lh3.googleusercontent.com/-jdqBXb5T4eg/VixugsjpWbI/AAAAAAAAAzM/JbEnvSPJ7SY/s128-Ic42/axn.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/axn1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/axn.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/axn-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/axn-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Discovery",
+        "img": "https://lh3.googleusercontent.com/-gT-A3dTfYdc/VixusUgJpQI/AAAAAAAAAzE/7C9VhBDGe4o/s128-Ic42/discovery.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/dicovery.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/dicovery-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/dicovery-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/dicovery-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/dicovery-5.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "MTVViet",
+        "img": "https://lh3.googleusercontent.com/-u4U0wapBHfo/VixvCqUliYI/AAAAAAAAAgs/juP7vLPubnU/s128-Ic42/mtvviet.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/mtvviet.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/mtvviet-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/mtvviet-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/mtvviet-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/mtvviet-5.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "VChannel",
+        "img": "https://lh3.googleusercontent.com/-ySZOwdCRSYE/VixvXoVa5YI/AAAAAAAAAy0/PL9Kw5BBCYI/s128-Ic42/vchannel.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/channelv1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/v-chanel.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/v-chanel-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/v-chanel-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "FashionTV",
+        "img": "https://lh3.googleusercontent.com/-SkbFhh0I5J8/Vixuu7xyfdI/AAAAAAAAAzE/sEyrchYiVSE/s128-Ic42/fashion.png",
+        "channel": [
+          {
+            "link": "http://www.tivi8k.com/ok/fashion.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/fashion-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/fashion-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/fashion-4.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "National Geographic",
+        "img": "https://lh3.googleusercontent.com/-i8oiIwhQbHs/VixvEEPqEQI/AAAAAAAAAhY/dScA8YaZJpE/s128-Ic42/nageohd.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/neogeo1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/nageohd.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/nageohd-2.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          },
+          {
+            "link": "http://www.tivi8k.com/ok/nageohd-3.php",
+            "Referer": "http://www.tivi8k.com/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "QPVN",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/qpvn.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/local/qpvn1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 4
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/qpvn.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/qpvn-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/qpvn-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/qpvn-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "FBNC",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/fbnc.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fbnc.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/fbnc-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "CN Cartoon",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/car-toon.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/cartoon11.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/carton-cn.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/carton-cn-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Disney",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/disney.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/disney.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/disney-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "StarWorld",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/straworldhd.png",
+        "channel": [
+          {
+            "link": "http://sv.tvmienphi.net/ok/world/starworld1.php",
+            "Referer": "http://sv.tvmienphi.net/",
+            "type": 1
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/star-world.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/star-world-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "ITVHD",
+        "img": "https://lh3.googleusercontent.com/-D7xXFIIwC7s/VpxAkqvoHfI/AAAAAAAAAOc/Mr8q5yAhKuo/h120/itv.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vtc13-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh Địa phương",
+    "item": [
+      {
+        "title": "Vinh Long 1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vinhlong1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong1-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong1-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong1-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong1-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Vinh Long 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vinhlong2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong2-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong2-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong2-6.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhlong2-7.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Hanoi 1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/hanoi1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi1-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi1-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Hanoi 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/hanoi2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi2-4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanoi2-5.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "An Giang 1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/angiang1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/angiang1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/angiang1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/angiang1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Bac Lieu",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/baclieu.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/baclieu.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/baclieu-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/baclieu-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Bac Giang",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/bacgiang.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/bacgiang.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/bacgiang-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/bacgiang-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Vung Tau",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vungtau.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/baria-vungtau.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/baria-vungtau-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/baria-vungtau-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Ben Tre",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/bentre.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/bentre.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/bentre-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/bentre-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Binh Duong 1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhduong1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Binh Duong 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhduong2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Binh Duong 4",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhduong4.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong4.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong4-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhduong4-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Binh Dinh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhdinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhdinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhdinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhdinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Binh Thuan",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhthuan.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhthuan.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhthuan-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhthuan-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Binh Phuoc",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhphuoc1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhphuoc1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhphuoc1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhphuoc1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Binh Phuoc 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/binhphuoc2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhphuoc2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhphuoc2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/binhphuoc2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Ca Mau",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/caumau.png",
+        "channel": [
+          {
+            "link": "http://tv.ctvcamau.vn/live/tv/tv.m3u8",
+            "type": 0
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/camau.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/camau-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/camau-3.php"
+          }
+        ]
+      },
+      {
+        "title": "Dac Lac",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/daclac.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/daclac.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/daclac-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/daclac-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Dak Nong",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/daknong.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dacnong.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dacnong-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dacnong-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Da Nang 1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/danang1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/danang1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/danang1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/danang1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Da Nang 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/danang2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/danang2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/danang2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/danang2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Dong Thap",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/dongthap.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongthap.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongthap-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongthap-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Dong Nai 1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/dongnai1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongnai1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongnai1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongnai1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Dong Nai 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/dongnai2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongnai2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongnai2-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/dongnai2-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Gia Lai",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/gialai.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/gialai.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/gialai-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/gialai-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Ha Nam",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/hanam.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanam.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanam-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hanam-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Ha Giang",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/hagiang.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hagiang.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hagiang-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hagiang-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Ha Tinh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/hatinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hatinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hatinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hatinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Hai Phong",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/haiphong.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/haiphong.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/haiphong-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/haiphong-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Hau Giang",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/haugiang.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/haugiang.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/haugiang-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/haugiang-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Khanh Hoa",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/khanhhoa.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/khanhhoa.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/khanhhoa-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/khanhhoa-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Hoa Binh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/hoabinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hoabinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hoabinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/hoabinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Hue",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/hue.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/huetv.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/huetv-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/huetv-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Kien Giang 1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/kiengiang1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/kiengiang-ptth.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/kiengiang-ptth-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/kiengiang-ptth-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Lam Dong",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/lamdong.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/lamdong.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/lamdong-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/lamdong-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Lang Son",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/langson.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/langson.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/langson-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/langson-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Long An",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/longan.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/longan.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/longan-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/longan-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Nghe An",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/ninhthuan.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/nghean.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/nghean-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/nghean-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Ninh Binh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/ninhbinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/ninhbinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/ninhbinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/ninhbinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Ninh Thuan 2",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/ninhthuan2.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/ninhthuan.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/ninhthuan-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/ninhthuan-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Nam Dinh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/namdinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/namdinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/namdinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/namdinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Phu Tho",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/phutho.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/phutho.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/phutho-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/phutho-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Quang Binh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/quangbinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangbinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangbinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangbinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Quang Nam",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/quangnam.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangnam.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangnam-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangnam-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Quang Ninh1",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/quangninh1.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangninh1.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangninh1-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangninh1-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Quang Ninh 3",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/quangninh3.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangninh3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangninh3-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/quangninh3-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Soc Trang",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/soctrang.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/soctrang.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/soctrang-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/soctrang-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Tay Ninh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/tayninh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tayninh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tayninh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tayninh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Thai Binh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/thaibinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thaibinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thaibinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thaibinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Thai Nguyen",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/thainguyen.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thainguyen.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thainguyen-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thainguyen-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Thanh Hoa",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/thanhhoa.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thanhhoa.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thanhhoa-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thanhhoa-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Tien Giang",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/tiengiang.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tiengiang.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tiengiang-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tiengiang-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Can Tho",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/tpcantho.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thanhpho-cantho.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thanhpho-cantho-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/thanhpho-cantho-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Tra Vinh",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/travinh.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/travinh.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/travinh-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/travinh-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Tuyen Quang",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/tuyenquang.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tuyenquang.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tuyenquang-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/tuyenquang-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "title": "Vinh Phuc",
+        "img": "http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vinhphuc.png",
+        "channel": [
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhphuc.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhphuc-2.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          },
+          {
+            "link": "http://www.xemtvtructuyen.net/ok/vinhphuc-3.php",
+            "Referer": "http://www.xemtvtructuyen.net/",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kênh Radio",
+    "item": [
+      {
+        "title": "VOV1",
+        "img": "https://lh3.googleusercontent.com/-9W4jZujSfEk/Vpyia3hI6NI/AAAAAAAACBw/7gfmLwqrel4/s128-Ic42/vov1.png",
+        "channel": [
+          {
+            "link": "http://118.69.211.87:1935/vov1/vov1.stream_aac/playlist.m3u8",
+            "type": 0
+          },
+          {
+            "link": "http://118.69.211.87:1935/vov1/vov1.stream_aac/chunklist_w1915803412.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOV2",
+        "img": "https://lh3.googleusercontent.com/-dfd3TPXTzgk/VpyibAN747I/AAAAAAAAB60/amNGKhBAUFo/s128-Ic42/vov2.png",
+        "channel": [
+          {
+            "link": "http://118.69.211.87:1935/vov2/vov2.stream_aac/playlist.m3u8",
+            "type": 0
+          },
+          {
+            "link": "http://118.69.211.87:1935/vov2/vov2.stream_aac/chunklist_w1849602350.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOV3",
+        "img": "https://lh3.googleusercontent.com/-yF2qrUM6_DU/VpyibLjHU4I/AAAAAAAACBw/dbKAZgc-mes/s128-Ic42/vov3.png",
+        "channel": [
+          {
+            "link": "http://118.69.211.87:1935/vov3/vov3.stream_aac/playlist.m3u8",
+            "type": 0
+          },
+          {
+            "link": "http://118.69.211.87:1935/vov3/vov3.stream_aac/chunklist_w1846043325.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOV5",
+        "img": "https://lh3.googleusercontent.com/-DqMLFXGPOPM/VpyibV9qPKI/AAAAAAAAB7E/LlM2M315R2E/s128-Ic42/vov5.png",
+        "channel": [
+          {
+            "link": "http://118.69.211.87:1935/vov5/vov5.stream_aac/playlist.m3u8",
+            "type": 0
+          },
+          {
+            "link": "http://118.69.211.87:1935/vov5/vov5.stream_aac/chunklist_w974520045.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOHFM99.9",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-99-9-fm.png",
+        "channel": [
+          {
+            "link": "http://120.72.118.102:1935/live/channel3/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOHFM95.6",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-95-6-fm.png",
+        "channel": [
+          {
+            "link": "http://120.72.118.102:1935/live/channel1/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOHAM610",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/voh-610-am.png",
+        "channel": [
+          {
+            "link": "http://120.72.118.102:1935/live/channel2/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio VietNam Hai Ngoai",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-viet-nam-hai-ngoai.png",
+        "channel": [
+          {
+            "link": "http://209.239.123.91:8239/stream/1/",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "NHK World",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/nhk-vietnam.png",
+        "channel": [
+          {
+            "link": "https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263949/live_s.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Tieng noi nuoc toi",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-tieng-nuroc-toi.png",
+        "channel": [
+          {
+            "link": "http://162.244.80.118:3092/stream/1/",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Dai phat thanh truyen hinh ba ria vung tau",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ba-ria-vung-tau.png",
+        "channel": [
+          {
+            "link": "http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Binh Phuoc",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-binh-phuoc.png",
+        "channel": [
+          {
+            "link": "http://118.69.197.145/hls/radio.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Binh Thuan",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-binh-thuan.png",
+        "channel": [
+          {
+            "link": "http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Da nang",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-da-nang-96-3-fm.png",
+        "channel": [
+          {
+            "link": "http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Hanoi1",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ha-noi-fm96.png",
+        "channel": [
+          {
+            "link": "http://hanoitvobj.b2658d9e.viettel-cdn.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Hanoi2",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ha-noi-joyfm.png",
+        "channel": [
+          {
+            "link": "http://hanoitvobj.b2658d9e.viettel-cdn.vn/hntvRadio/joyfm.stream_aac/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Hanoi3",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-fm90.png",
+        "channel": [
+          {
+            "link": "http://123.30.185.126/hls/hn1audio.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Hai Duong",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-hai-duong.png",
+        "channel": [
+          {
+            "link": "http://113.160.131.11:8000/",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Ninh Binh",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-ninh-binh.png",
+        "channel": [
+          {
+            "link": "http://117.6.94.35:8001/",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Hue",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-thua-thien-hue.png",
+        "channel": [
+          {
+            "link": "http://118.69.211.87:1935/vov1/vov1.stream_aac/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Bac Giang",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-bac-giang.png",
+        "channel": [
+          {
+            "link": "http://cdn.mediatech.vn/bgtvradio/bgtv.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Phu Yen",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-phu-yen.png",
+        "channel": [
+          {
+            "link": "http://113.161.4.48:8080/phuyen/radio.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Quang Ninh 1",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-quang-ninh-qnr1.png",
+        "channel": [
+          {
+            "link": "http://118.69.211.87:1935/vov1/vov1.stream_aac/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "Radio Quang Ninh 2",
+        "img": "https://cdn.webrad.io/images/logos/radioonline-vn/radio-quang-ninh-qnr2.png",
+        "channel": [
+          {
+            "link": "http://118.69.211.87:1935/vov1/vov1.stream_aac/playlist.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOVGTHCM",
+        "img": "https://lh3.googleusercontent.com/-6bh-_DAWmVo/VpyiavaYuNI/AAAAAAAACBw/FjNEvbD8FL8/s128-Ic42/vov-gthcm.png",
+        "channel": [
+          {
+            "link": "https://5a6872aace0ce.streamlock.net/vovgt+hcm/vovgt+hcm.stream_aac/chunklist_w1107087615.m3u8",
+            "type": 0
+          }
+        ]
+      },
+      {
+        "title": "VOVGTHN",
+        "img": "https://lh3.googleusercontent.com/-_Dm0iuK4Yvo/VpyiauxW_II/AAAAAAAACBw/wEqSTKNFgD8/s128-Ic42/vov-gthn.png",
+        "channel": [
+          {
+            "link": "https://5a6872aace0ce.streamlock.net/vovgt+hn/vovgt+hn.stream_aac/chunklist_w501726709.m3u8",
+            "type": 0
+          }
+        ]
+      }
+    ]
+  }
+]
