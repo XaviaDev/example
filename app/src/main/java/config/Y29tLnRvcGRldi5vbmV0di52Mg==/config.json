@@ -42,7 +42,7 @@
         "close": "",
         "lock": "",
         "load": "",
-        "switch": "fan,unity,startapp",
+        "switch": "",
         "gift": "",
         "open": "fan,unity,startapp"
       }
