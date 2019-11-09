@@ -2,8 +2,8 @@
   "email": "abc@gmail.com",
   "enable": true,
   "later": 0,
-  "trigger": 48,
-  "interval": 4,
+  "trigger": 15,
+  "interval": 5,
   "minCode": 0,
   "ads": {
     "items": 4,
