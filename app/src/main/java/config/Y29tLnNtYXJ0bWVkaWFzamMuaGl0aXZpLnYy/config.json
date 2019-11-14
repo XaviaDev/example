@@ -32,7 +32,7 @@
       "startapp": "207129026",
       "unity": "1502445"
     },
-    "delay": 0,
+    "delay": 3600000,
     "type": {
       "b": "fan,unity,startapp",
       "n": "fan,startapp",
@@ -58,7 +58,7 @@
   },
   "app": {
     "sim": "vn",
-    "resource": "7",
+    "resource": "7,5",
     "policy": "https://sites.google.com/view/appspro-privacy"
   }
 }
