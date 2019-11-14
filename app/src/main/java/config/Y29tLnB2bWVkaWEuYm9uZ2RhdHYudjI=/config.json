@@ -6,7 +6,7 @@
   "interval": 5,
   "minCode": 0,
   "ads": {
-    "items": 4,
+    "items": 8,
     "ids": {
       "admob": {
         "b": "",
@@ -32,7 +32,7 @@
       "startapp": "207129026",
       "unity": "1502445"
     },
-    "delay": 0,
+    "delay": 3600000,
     "type": {
       "b": "fan,admob,unity,startapp",
       "n": "fan,admob,unity,startapp",
