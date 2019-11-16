@@ -56,6 +56,12 @@
     "des": "1.Ultraviolet (UV) index#2.Sunrise and sunset time#3.7-day forecast#4.Daily temperature predictions, with daily highs and lows",
     "apk": "app.apk"
   },
+  "more": {
+    "img": "https://lh3.googleusercontent.com/NfLEMSmww5h3HsdkZJL7wQ8cNoo_eYpRkvsw0mGK19OxEdBVd7ckBHGGGHhXh5vwa7aj=s180-rw",
+    "title": "Bóng đá TiVi",
+    "des": "Nếu bạn là một fan bóng đá, điện ảnh đừng bỏ qua ứng dụng này.",
+    "id": "com.pvmedia.bongdatv.v2"
+  },
   "app": {
     "sim": "vn",
     "resource": "7,4",
