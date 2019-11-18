@@ -44,6 +44,7 @@
         "load": "",
         "switch": "",
         "gift": "",
+        "boot": "",
         "open": "fan,admob,unity,startapp"
       }
     },
