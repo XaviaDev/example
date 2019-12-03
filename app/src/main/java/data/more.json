@@ -23,6 +23,24 @@
       "title": "Bóng đá TiVi",
       "des": "Nếu bạn là một fan bóng đá, điện ảnh đừng bỏ qua ứng dụng này.",
       "id": "com.pvmedia.bongdatv.v2"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/fdMsVerx1L2M3AkwnVMsQLz_lJsVTmYn-jwah6Bf6CwpCwvkUQQkGpAj5rt7lcqPB5c=s180-rw",
+      "title": "OHO TiVi 2010",
+      "des": "Giao diện đẹp đến khó tin.",
+      "id": "com.nfmedia.ohotivi"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/fdMsVerx1L2M3AkwnVMsQLz_lJsVTmYn-jwah6Bf6CwpCwvkUQQkGpAj5rt7lcqPB5c=s180-rw",
+      "title": "OHO TiVi 2010",
+      "des": "Giao diện đẹp đến khó tin.",
+      "id": "com.nfmedia.ohotivi"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/3NT4WCA6LRFwKNJ4DY7uQfmoQQ9oO3B-sKxJCTaa047aguwW4nVIJg_D56BMG9pkmx2y=s180-rw",
+      "title": "QCheck",
+      "des": "Ứng dụng này sẽ cho bạn biết nguồn gốc sản phẩm chỉ trong tích tắc. Nhớ mang khi đi siêu thị nhé.",
+      "id": "com.mobiledev.qrscanner"
     }
   ]
 }
