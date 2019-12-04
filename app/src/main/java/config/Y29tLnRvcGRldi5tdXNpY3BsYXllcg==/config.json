@@ -1,0 +1,71 @@
+{
+  "email": "abc@gmail.com",
+  "enable": true,
+  "later": 0,
+  "trigger": 15,
+  "interval": 5,
+  "minCode": 0,
+  "ads": {
+    "items": 4,
+    "ids": {
+      "admob": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "rxadmob": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "fan": {
+        "b": "374455323330149_374455433330138",
+        "m": "",
+        "n": "",
+        "p": "374455323330149_374456049996743",
+        "r": ""
+      },
+      "startapp": "207129026",
+      "unity": "1502445"
+    },
+    "delay": 0,
+    "type": {
+      "b": "fan",
+      "n": "fan",
+      "p": {
+        "net": "",
+        "click": "fan",
+        "close": "",
+        "lock": "",
+        "load": "",
+        "switch": "",
+        "gift": "",
+        "boot": "",
+        "open": "fan"
+      }
+    },
+    "priority": "fan,admob,unity,startapp",
+    "random": false
+  },
+  "update": {
+    "f": true,
+    "ver": 1,
+    "des": "1.Ultraviolet (UV) index#2.Sunrise and sunset time#3.7-day forecast#4.Daily temperature predictions, with daily highs and lows",
+    "apk": "app.apk"
+  },
+  "more": {
+    "img": "https://lh3.googleusercontent.com/NfLEMSmww5h3HsdkZJL7wQ8cNoo_eYpRkvsw0mGK19OxEdBVd7ckBHGGGHhXh5vwa7aj=s180-rw",
+    "title": "Bóng đá TiVi",
+    "des": "Nếu bạn là một fan bóng đá, điện ảnh đừng bỏ qua ứng dụng này.",
+    "id": "com.pvmedia.bongdatv.v2"
+  },
+  "app": {
+    "sim": "vn",
+    "resource": "7,3",
+    "policy": "https://sites.google.com/view/appspro-privacy"
+  }
+}
