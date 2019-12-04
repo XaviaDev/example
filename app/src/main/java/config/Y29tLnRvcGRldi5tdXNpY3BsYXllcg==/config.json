@@ -34,18 +34,18 @@
     },
     "delay": 0,
     "type": {
-      "b": "fan",
-      "n": "fan",
+      "b": "fan,startapp",
+      "n": "fan,startapp",
       "p": {
         "net": "",
-        "click": "fan",
+        "click": "fan,startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
         "boot": "",
-        "open": "fan"
+        "open": "fan,startapp"
       }
     },
     "priority": "fan,admob,unity,startapp",
