@@ -38,14 +38,14 @@
       "n": "fan,startapp",
       "p": {
         "net": "",
-        "click": "fan,startapp",
+        "click": "fan,unity,startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
         "boot": "",
-        "open": "fan,startapp"
+        "open": "fan,unity,startapp"
       }
     },
     "priority": "fan,unity,startapp",
