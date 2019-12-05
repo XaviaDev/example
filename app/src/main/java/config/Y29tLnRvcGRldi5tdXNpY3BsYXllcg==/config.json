@@ -48,7 +48,7 @@
         "open": "fan,startapp"
       }
     },
-    "priority": "fan,admob,unity,startapp",
+    "priority": "fan,unity,startapp",
     "random": false
   },
   "update": {
