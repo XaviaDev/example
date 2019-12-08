@@ -61,7 +61,8 @@
     "img": "https://lh3.googleusercontent.com/NfLEMSmww5h3HsdkZJL7wQ8cNoo_eYpRkvsw0mGK19OxEdBVd7ckBHGGGHhXh5vwa7aj=s180-rw",
     "title": "Bóng đá TiVi",
     "des": "Nếu bạn là một fan bóng đá, điện ảnh đừng bỏ qua ứng dụng này.",
-    "id": "com.pvmedia.bongdatv.v2"
+    "id": "com.pvmedia.bongdatv.v2",
+    "filter": "us"
   },
   "app": {
     "sim": "vn",
