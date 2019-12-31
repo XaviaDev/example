@@ -7,32 +7,25 @@
       "id": "com.mobiledev.realtime.radar.weather.forecast",
     },
     {
-      "img": "https://lh3.googleusercontent.com/vNpJYKxbi1ytHasST0ot3TY-Z5qxoq1H7joC-Iu4xjlxcwLbzgK4DHBzFFwuGYjrFrw=s180-rw",
-      "title": "One TV: Tivi Bóng đá",
-      "des": "Một ứng dụng xem tivi bóng đá tuyệt vời.",
-      "id": "com.topdev.onetv.v2",
-      "filter": "us"
-    },
-    {
       "img": "https://lh3.googleusercontent.com/UMnHK8r0sWGOxxdhsb8j-yGGOacSvzrj1Fh7fvQ2vj_-INL2WCSy9Azscs8CbAY4-ZA=s180-rw",
       "title": "Hi Tivi+",
       "des": "Một ứng dụng xem tivi, lịch tivi, tin tức bóng đá có thể bạn cần.",
       "id": "com.smartmediasjc.hitivi.v2",
-      "filter": "us"
+      "filter": "vn"
     },
     {
       "img": "https://lh3.googleusercontent.com/NfLEMSmww5h3HsdkZJL7wQ8cNoo_eYpRkvsw0mGK19OxEdBVd7ckBHGGGHhXh5vwa7aj=s180-rw",
       "title": "Bóng đá TiVi",
       "des": "Nếu bạn là một fan bóng đá, điện ảnh đừng bỏ qua ứng dụng này.",
       "id": "com.pvmedia.bongdatv.v2",
-      "filter": "us"
+      "filter": "vn"
     },
     {
       "img": "https://lh3.googleusercontent.com/fdMsVerx1L2M3AkwnVMsQLz_lJsVTmYn-jwah6Bf6CwpCwvkUQQkGpAj5rt7lcqPB5c=s180-rw",
       "title": "OHO TiVi 2010",
       "des": "Giao diện đẹp đến khó tin.",
       "id": "com.nfmedia.ohotivi",
-      "filter": "us"
+      "filter": "vn"
     },
     {
       "img": "https://lh3.googleusercontent.com/fdMsVerx1L2M3AkwnVMsQLz_lJsVTmYn-jwah6Bf6CwpCwvkUQQkGpAj5rt7lcqPB5c=s180-rw",
