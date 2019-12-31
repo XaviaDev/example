@@ -1,0 +1,65 @@
+{
+  "email": "xaviadev@gmail.com",
+  "enable": true,
+  "later": 0,
+  "trigger": 15,
+  "interval": 5,
+  "minCode": 0,
+  "ads": {
+    "items": 4,
+    "ids": {
+      "admob": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "rxadmob": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "fan": {
+        "b": "MTI1MzU2NTIzMTUwMjkzN18xMjUzNTc1NjA4MTY4NTY2LG5fMTI1MzU2NTIzMTUwMjkzN18xMjUzNTc5NTg0ODM0ODM1",
+        "m": "MTI1MzU2NTIzMTUwMjkzN18xMjUzNTY3MjY0ODM2MDY3",
+        "n": "MTI1MzU2NTIzMTUwMjkzN18xMjUzNTgyMzg4MTY3ODg4",
+        "p": "MTI1MzU2NTIzMTUwMjkzN18xMjUzNTc1NjA4MTY4NTY2",
+        "r": ""
+      },
+      "startapp": "MjA3MTI5MDI2",
+      "unity": "MTUwMjQ0NQ=="
+    },
+    "delay": 0,
+    "type": {
+      "b": "startapp",
+      "n": "startapp",
+      "p": {
+        "boot": "",
+        "net": "",
+        "click": "startapp",
+        "close": "",
+        "lock": "",
+        "load": "",
+        "switch": "",
+        "gift": "startapp",
+        "open": "startapp"
+      }
+    },
+    "priority": "",
+    "random": false
+  },
+  "update": {
+    "f": true,
+    "ver": 1,
+    "des": "1.Ultraviolet (UV) index#2.Sunrise and sunset time#3.7-day forecast#4.Daily temperature predictions, with daily highs and lows",
+    "apk": "app.apk"
+  },
+  "app": {
+    "sim": "",
+    "resource": "",
+    "policy": "https://sites.google.com/view/appspro-privacy"
+  }
+}
