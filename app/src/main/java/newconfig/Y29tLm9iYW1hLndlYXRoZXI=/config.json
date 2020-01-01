@@ -34,21 +34,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "unity",
-      "n": "unity",
+      "b": "admob",
+      "n": "admob",
       "p": {
         "boot": "",
         "net": "",
-        "click": "unity",
+        "click": "admob",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "unity",
-        "open": "unity"
+        "gift": "admob",
+        "open": "admob"
       }
     },
-    "priority": "unity",
+    "priority": "admob",
     "random": false
   },
   "update": {
