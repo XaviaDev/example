@@ -34,21 +34,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "startapp",
-      "n": "startapp",
+      "b": "unity",
+      "n": "unity",
       "p": {
         "boot": "",
         "net": "",
-        "click": "startapp",
+        "click": "unity",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "startapp",
-        "open": "startapp"
+        "gift": "unity",
+        "open": "unity"
       }
     },
-    "priority": "startapp",
+    "priority": "unity",
     "random": false
   },
   "update": {
