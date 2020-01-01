@@ -34,18 +34,18 @@
     },
     "delay": 0,
     "type": {
-      "b": "admob",
-      "n": "admob",
+      "b": "fan",
+      "n": "fan",
       "p": {
         "boot": "",
         "net": "",
-        "click": "admob",
+        "click": "fan",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "admob",
-        "open": "admob"
+        "gift": "fan",
+        "open": "fan"
       }
     },
     "priority": "admob",
