@@ -34,21 +34,21 @@
     },
     "delay": 3600000,
     "type": {
-      "b": "fan,unity,startapp",
-      "n": "fan,unity,startapp",
+      "b": "fan,startapp",
+      "n": "startapp,fan",
       "p": {
-        "net": "startapp",
-        "click": "unity,startapp",
-        "close": "unity",
+        "boot": "",
+        "net": "",
+        "click": "startapp,fan",
+        "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "",
-        "boot": "startapp",
-        "open": "unity,startapp"
+        "gift": "fan,startapp",
+        "open": "startapp,fan"
       }
     },
-    "priority": "unity,startapp",
+    "priority": "startapp,fan,unity",
     "random": false
   },
   "update": {
