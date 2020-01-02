@@ -37,18 +37,18 @@
       "b": "fan,unity,startapp",
       "n": "fan,unity,startapp",
       "p": {
-        "net": "",
-        "click": "fan,unity,startapp",
-        "close": "",
+        "net": "startapp",
+        "click": "unity,startapp",
+        "close": "unity",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "",
-        "boot": "",
-        "open": "fan,unity,startapp"
+        "boot": "startapp",
+        "open": "unity,startapp"
       }
     },
-    "priority": "fan,admob,unity,startapp",
+    "priority": "unity,startapp",
     "random": false
   },
   "update": {
