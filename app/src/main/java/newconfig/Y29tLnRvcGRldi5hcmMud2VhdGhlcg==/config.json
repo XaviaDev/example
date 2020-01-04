@@ -39,16 +39,16 @@
       "p": {
         "boot": "",
         "net": "",
-        "click": "startapp,fan",
+        "click": "fan,startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "fan,startapp",
-        "open": "startapp,fan"
+        "open": "fan,startapp"
       }
     },
-    "priority": "startapp,fan,unity",
+    "priority": "fan,startapp,unity",
     "random": false
   },
   "update": {
