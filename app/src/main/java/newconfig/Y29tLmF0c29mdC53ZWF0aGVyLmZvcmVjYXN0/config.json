@@ -60,7 +60,13 @@
   "app": {
     "sim": "",
     "resource": "",
-    "usewindy": false,
+    "radar": "windy",
+    "policy": "https://sites.google.com/view/appspro-privacy"
+  },
+  "proapp": {
+    "sim": "",
+    "resource": "",
+    "radar": "windy",
     "policy": "https://sites.google.com/view/appspro-privacy"
   }
 }
