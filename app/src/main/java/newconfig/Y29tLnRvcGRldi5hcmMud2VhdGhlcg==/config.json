@@ -60,7 +60,13 @@
   "app": {
     "sim": "",
     "resource": "",
-    "usewindy": false,
+    "radar": "darksky",
+    "policy": "https://sites.google.com/view/appspro-privacy"
+  },
+  "apppro": {
+    "sim": "",
+    "resource": "",
+    "radar": "ventu",
     "policy": "https://sites.google.com/view/appspro-privacy"
   }
 }

@@ -60,7 +60,7 @@
   "app": {
     "sim": "",
     "resource": "",
-    "radar": "windy",
+    "radar": "darksky",
     "policy": "https://sites.google.com/view/appspro-privacy"
   },
   "apppro": {
