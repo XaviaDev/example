@@ -23,10 +23,10 @@
         "r": ""
       },
       "fan": {
-        "b": "",
-        "m": "",
-        "n": "",
-        "p": "",
+        "b": "bl8xODg1MzIwMDg5MTI3ODFfMTg4NTMzMjk4OTEyNjUyLG5fMTg4NTMyMDA4OTEyNzgxXzE4ODUzMzQxNTU3OTMwNw==",
+        "m": "MTg4NTMyMDA4OTEyNzgxXzE4ODUzMjY3MjI0NjA0OA==",
+        "n": "MTg4NTMyMDA4OTEyNzgxXzE4ODUzNDA5NTU3OTIzOQ==",
+        "p": "MTg4NTMyMDA4OTEyNzgxXzE4ODUzMzc5MjI0NTkzNg==",
         "r": ""
       },
       "startapp": "MjA3MTI5MDI2",
@@ -34,18 +34,18 @@
     },
     "delay": 0,
     "type": {
-      "b": "fan,startapp",
-      "n": "fan,startapp",
+      "b": "startapp",
+      "n": "startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "fan,startapp",
+        "click": "startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "fan,startapp",
-        "open": "fan,startapp"
+        "gift": "startapp",
+        "open": "startapp"
       }
     },
     "priority": "fan,startapp,unity",
