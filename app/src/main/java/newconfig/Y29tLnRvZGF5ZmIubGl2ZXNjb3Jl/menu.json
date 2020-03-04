@@ -1,0 +1,1107 @@
+{
+  "menu": {
+    "en": [
+      {
+        "name": "Football",
+        "module": "livescore"
+      },
+      {
+        "name": "Livescore",
+        "module": "live"
+      },
+      {
+        "name": "Fixtures",
+        "module": "fixtures"
+      },
+      {
+        "name": "Results",
+        "module": "results"
+      },
+      {
+        "name": "Standings",
+        "module": "standings"
+      },
+      {
+        "name": "Odds",
+        "module": "odds"
+      },
+      {
+        "name": "Tips",
+        "module": "tips"
+      },
+      {
+        "name": "Search",
+        "module": "search"
+      },
+      {
+        "name": "Favourite",
+        "module": "favourite"
+      },
+      {
+        "name": "Related Apps",
+        "module": "relatedapps"
+      },
+      {
+        "name": "Share",
+        "module": "share"
+      },
+      {
+        "name": "Rate the app",
+        "module": "review"
+      },
+      {
+        "name": "Settings",
+        "module": "language"
+      },
+      {
+        "name": "Privacy and Cookies",
+        "module": "privacy"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Football",
+        "module": "livescore"
+      },
+      {
+        "name": "En Direct",
+        "module": "live"
+      },
+      {
+        "name": "Calendrier",
+        "module": "fixtures"
+      },
+      {
+        "name": "Résultats",
+        "module": "results"
+      },
+      {
+        "name": "Classement",
+        "module": "standings"
+      },
+      {
+        "name": "Cotes",
+        "module": "odds"
+      },
+      {
+        "name": "Prédictions",
+        "module": "tips"
+      },
+      {
+        "name": "Rechercher",
+        "module": "search"
+      },
+      {
+        "name": "Favori",
+        "module": "favourite"
+      },
+      {
+        "name": "Applications liées",
+        "module": "relatedapps"
+      },
+      {
+        "name": "Share",
+        "module": "share"
+      },
+      {
+        "name": "Rate",
+        "module": "review"
+      },
+      {
+        "name": "Paramètres",
+        "module": "language"
+      },
+      {
+        "name": "Confidentialité et cookies",
+        "module": "privacy"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Bóng đá",
+        "module": "livescore"
+      },
+      {
+        "name": "Tỷ số trực tuyến",
+        "module": "live"
+      },
+      {
+        "name": "Lịch thi đấu bóng đá",
+        "module": "fixtures"
+      },
+      {
+        "name": "Kết quả bóng đá",
+        "module": "results"
+      },
+      {
+        "name": "Bảng xếp hạng bóng đá",
+        "module": "standings"
+      },
+      {
+        "name": "Tỷ lệ bóng đá",
+        "module": "odds"
+      },
+      {
+        "name": "Tip bóng đá",
+        "module": "tips"
+      },
+      {
+        "name": "Tìm kiếm",
+        "module": "search"
+      },
+      {
+        "name": "Yêu thích",
+        "module": "favourite"
+      },
+      {
+        "name": "App của tôi",
+        "module": "relatedapps"
+      },
+      {
+        "name": "Chia sẻ",
+        "module": "share"
+      },
+      {
+        "name": "Đánh giá",
+        "module": "review"
+      },
+      {
+        "name": "Cấu hình",
+        "module": "language"
+      },
+      {
+        "name": "Riêng tư và Cookies",
+        "module": "privacy"
+      }
+    ],
+    "it": [
+      {
+        "name": "Calcio",
+        "module": "livescore"
+      },
+      {
+        "name": "In diretta",
+        "module": "live"
+      },
+      {
+        "name": "Calendario",
+        "module": "fixtures"
+      },
+      {
+        "name": "Risultati",
+        "module": "results"
+      },
+      {
+        "name": "Classifica",
+        "module": "standings"
+      },
+      {
+        "name": "Pronostici",
+        "module": "odds"
+      },
+      {
+        "name": "Predizioni",
+        "module": "tips"
+      },
+      {
+        "name": "Ricerca",
+        "module": "search"
+      },
+      {
+        "name": "Preferito",
+        "module": "favourite"
+      },
+      {
+        "name": "Altre applicazioni",
+        "module": "relatedapps"
+      },
+      {
+        "name": "Share",
+        "module": "share"
+      },
+      {
+        "name": "Valutare",
+        "module": "review"
+      },
+      {
+        "name": "Impostazioni",
+        "module": "language"
+      },
+      {
+        "name": "Privacy e cookie",
+        "module": "privacy"
+      }
+    ],
+    "es": [
+      {
+        "name": "Fútbol",
+        "module": "livescore"
+      },
+      {
+        "name": "En directo",
+        "module": "live"
+      },
+      {
+        "name": "Calendario",
+        "module": "fixtures"
+      },
+      {
+        "name": "Resultados",
+        "module": "results"
+      },
+      {
+        "name": "Clasificación",
+        "module": "standings"
+      },
+      {
+        "name": "Cuotas",
+        "module": "odds"
+      },
+      {
+        "name": "Predicciones",
+        "module": "tips"
+      },
+      {
+        "name": "Buscar",
+        "module": "search"
+      },
+      {
+        "name": "Favorito",
+        "module": "favourite"
+      },
+      {
+        "name": "Relacionadas",
+        "module": "relatedapps"
+      },
+      {
+        "name": "Compartir",
+        "module": "share"
+      },
+      {
+        "name": "Calificar",
+        "module": "review"
+      },
+      {
+        "name": "Ajustes",
+        "module": "language"
+      },
+      {
+        "name": "Cookies y privacidad",
+        "module": "privacy"
+      }
+    ],
+    "pt": [
+      {
+        "name": "Futebol",
+        "module": "livescore"
+      },
+      {
+        "name": "Em directo",
+        "module": "live"
+      },
+      {
+        "name": "Calendário",
+        "module": "fixtures"
+      },
+      {
+        "name": "Resultados",
+        "module": "results"
+      },
+      {
+        "name": "Classificação",
+        "module": "standings"
+      },
+      {
+        "name": "Probabilidades",
+        "module": "odds"
+      },
+      {
+        "name": "Previsões",
+        "module": "tips"
+      },
+      {
+        "name": "Pesquisa",
+        "module": "search"
+      },
+      {
+        "name": "Favorito",
+        "module": "favourite"
+      },
+      {
+        "name": "Outros aplicativos",
+        "module": "relatedapps"
+      },
+      {
+        "name": "Partihar",
+        "module": "share"
+      },
+      {
+        "name": "Classifique o app",
+        "module": "review"
+      },
+      {
+        "name": "Configurações",
+        "module": "language"
+      },
+      {
+        "name": "Privacidade e Cookies",
+        "module": "privacy"
+      }
+    ],
+    "de": [
+      {
+        "name": "Fußball",
+        "module": "livescore"
+      },
+      {
+        "name": "Live-Ticker",
+        "module": "live"
+      },
+      {
+        "name": "Spielplan",
+        "module": "fixtures"
+      },
+      {
+        "name": "Ergebnisse",
+        "module": "results"
+      },
+      {
+        "name": "Tabelle",
+        "module": "standings"
+      },
+      {
+        "name": "Quoten",
+        "module": "odds"
+      },
+      {
+        "name": "Fußball Tipps",
+        "module": "tips"
+      },
+      {
+        "name": "Suche",
+        "module": "search"
+      },
+      {
+        "name": "Favorit",
+        "module": "favourite"
+      },
+      {
+        "name": "Ähnliche Apps",
+        "module": "relatedapps"
+      },
+      {
+        "name": "Teilen",
+        "module": "share"
+      },
+      {
+        "name": "Apps bewerten",
+        "module": "review"
+      },
+      {
+        "name": "Einstellungen",
+        "module": "language"
+      },
+      {
+        "name": "Cookies & Datenschutz",
+        "module": "privacy"
+      }
+    ]
+  },
+  "lang": {
+    "en": {
+      "formation_off": "Official",
+      "formation_sub": "Substitute",
+      "match": "Match",
+      "face_to_face": "VS",
+      "last_five_match": "recent matches",
+      "dismiss": "dismiss",
+      "reconnect": "reconnect",
+      "lost_connect": "Internet lost",
+      "connect_grant": "Internet grant",
+      "ft": "FT",
+      "postpone": "PP",
+      "notstart": " ",
+      "loading": "loading...",
+      "load_data_fail": "Data is updating\\nPull down to refresh",
+      "data_updating": "data is updating",
+      "no_data": "no data now",
+      "match_not_start": "The match has not started yet",
+      "club": "Club",
+      "chap": "Handicap",
+      "taixiu": "Over/Under (O/U)",
+      "1x2": "1x2",
+      "favorite_my_score": "Matches",
+      "favorite_my_competitions": "Leagues",
+      "extra_subject": "Live3s is very good app",
+      "extra_text": "Hey you! Try to use this App. It very good",
+      "today": "Today",
+      "detail": "Details",
+      "match_stats": "Match Stats",
+      "common": "Top Leagues",
+      "all": "All Countries",
+      "normal": "Normal",
+      "vip": "Vip",
+      "leagues": "Leagues",
+      "times": "Time",
+      "line_up": "Lineups",
+      "match_cast": "Match Stats",
+      "form": "Form",
+      "table": "Table",
+      "rank": "Table",
+      "result": "Results",
+      "fixtures": "Fixtures",
+      "tip_last_match": "Recent Form",
+      "tip_tip": "Tip",
+      "tip_pick": "Pick",
+      "input_search_here": "input search here",
+      "home": "Home",
+      "away": "Away",
+      "label_total_match": "MP",
+      "label_total_win": "W",
+      "label_total_draw": "D",
+      "label_total_lose": "L",
+      "label_total_point": "PT",
+      "label_goal_for": "GF",
+      "label_goal_against": "GA",
+      "top_scorers": "Top scorers",
+      "player": "Player",
+      "team": "Team",
+      "goal": "Goal",
+      "penalty_goals": "Pen",
+      "first_goals": "1st goal",
+      "round": "round",
+      "season": "season",
+      "tip_free": "Tip FREE",
+      "tip_vip": "Tip VIP",
+      "update_app_title": "We have new version. Please update this app!",
+      "ok": "Ok",
+      "cancel": "Cancel",
+      "view_more_at_web": "View more at Live3s.com!",
+      "languages": "Languages",
+      "alert": "Alert",
+      "match_finish": "Finished",
+      "tv_guide": "TV Coverage Guide",
+      "account": "Account",
+      "please_login_share": "Please login to a Facebook account to share",
+      "label_stats": "Stats"
+    },
+    "fr": {
+      "formation_off": "Formation",
+      "formation_sub": "Remplaçants",
+      "match": "Match",
+      "face_to_face": "VS",
+      "last_five_match": "matchs récents",
+      "dismiss": "rejeter",
+      "reconnect": "reconnecter",
+      "lost_connect": "Internet perte",
+      "connect_grant": "Internet grant",
+      "ft": "Terminé",
+      "postpone": "PP",
+      "notstart": " ",
+      "loading": "chargement...",
+      "load_data_fail": "Les données sont à jour\\nPull Down pour rafraîchir",
+      "data_updating": "Les données sont à jour",
+      "no_data": "pas de données",
+      "match_not_start": "le match n'a pas encore commencé",
+      "club": "Équipe",
+      "chap": "Handicap",
+      "taixiu": "Over/Under (O/U)",
+      "1x2": "1x2",
+      "favorite_my_score": "Mes matchs",
+      "favorite_my_competitions": "Mes ligues",
+      "extra_subject": "Live3s est très bonne application",
+      "extra_text": "Hé toi! Essayez d'utiliser cette application. C'est très bien",
+      "today": "Aujourd'hui",
+      "detail": "Résumé",
+      "match_stats": "Statistiques",
+      "common": "meilleures ligues",
+      "all": "Tous les pays",
+      "normal": "Ordinaire",
+      "vip": "Vip",
+      "leagues": "Ligues",
+      "times": "Temps",
+      "line_up": "Formation",
+      "match_cast": "Statistiques",
+      "form": "Forme",
+      "table": "Classement",
+      "rank": "Classement",
+      "result": "Résultats",
+      "fixtures": "Calendrier",
+      "tip_last_match": "Derniers matchs",
+      "tip_tip": "Teneur",
+      "tip_pick": "Choisir",
+      "input_search_here": "Recherche d'entrée ici",
+      "home": "Domicile",
+      "away": "Extérieur",
+      "label_total_match": "J",
+      "label_total_win": "G",
+      "label_total_draw": "N",
+      "label_total_lose": "P",
+      "label_total_point": "Pts",
+      "label_goal_for": "GF",
+      "label_goal_against": "GA",
+      "top_scorers": "Top buteurs",
+      "player": "Joueur",
+      "team": "Équipe",
+      "goal": "Buts",
+      "penalty_goals": "Peine",
+      "first_goals": "1er but",
+      "round": "rond",
+      "season": "saison",
+      "tip_free": "gratis",
+      "tip_vip": "VIP",
+      "update_app_title": "Nous avons une nouvelle version. S'il vous plaît mettre à jour cette application !",
+      "ok": "Ok",
+      "cancel": "Annuler",
+      "view_more_at_web": "Voir plus à Live3s.com !",
+      "languages": "Langues",
+      "alert": "Alert",
+      "match_finish": "Match fini",
+      "tv_guide": "TV Coverage Guide",
+      "account": "Account",
+      "please_login_share": "Please login to a Facebook account to share",
+      "label_stats": "Stats"
+    },
+    "it": {
+      "formation_off": "Formazioni iniziali",
+      "formation_sub": "Panchina",
+      "match": "Partita",
+      "face_to_face": "VS",
+      "last_five_match": "Ultimi Incontri",
+      "dismiss": "ignorare",
+      "reconnect": "ricollegare",
+      "lost_connect": "Internet ha perso",
+      "connect_grant": "il segnale internet è buono",
+      "ft": "Finale",
+      "postpone": "PP",
+      "notstart": " ",
+      "loading": "Attendere, caricamento dati in corso...",
+      "load_data_fail": "I dati sta aggiornando\\nTendina per aggiornare",
+      "data_updating": "I dati sta aggiornando",
+      "no_data": "Dati aggiornamento",
+      "match_not_start": "la partita non è ancora cominciata",
+      "club": "Squadra",
+      "chap": "Handicap",
+      "taixiu": "Over/Under (O/U)",
+      "1x2": "1x2",
+      "favorite_my_score": "Partite",
+      "favorite_my_competitions": "Campionati",
+      "extra_subject": "Live3s è molto buona app",
+      "extra_text": "Prova ad usare questa applicazione",
+      "today": "Oggi",
+      "detail": "Informazioni",
+      "match_stats": "Statistiche",
+      "common": "maggiori campionati",
+      "all": "campionati per paese",
+      "normal": "Normale",
+      "vip": "Vip",
+      "leagues": "Campionati",
+      "times": "Tempo",
+      "line_up": "Formazioni",
+      "match_cast": "Partita statistiche",
+      "form": "Forma",
+      "table": "Classifica",
+      "rank": "Classifica",
+      "result": "Risultati",
+      "fixtures": "Calendario",
+      "tip_last_match": "risultati recenti",
+      "tip_tip": "Contenuti",
+      "tip_pick": "Sceglietene",
+      "input_search_here": "inserire la parola chiave",
+      "home": "Casa",
+      "away": "Fuori",
+      "label_total_match": "PG",
+      "label_total_win": "V",
+      "label_total_draw": "N",
+      "label_total_lose": "P",
+      "label_total_point": "Punti",
+      "label_goal_for": "GF",
+      "label_goal_against": "GA",
+      "top_scorers": "Marcatori",
+      "player": "Giocatore",
+      "team": "Squadra",
+      "goal": "Gol",
+      "penalty_goals": "Pen",
+      "first_goals": "1 ° gol",
+      "round": "Giornata",
+      "season": "Stagione",
+      "tip_free": "Gratis",
+      "tip_vip": "VIP",
+      "update_app_title": "Abbiamo nuova versione. Si prega di aggiornare questa applicazione !",
+      "ok": "Ok",
+      "cancel": "Annulla",
+      "view_more_at_web": "Vedi più a Live3s.com !",
+      "languages": "Le lingue",
+      "alert": "Notifica",
+      "match_finish": "Partita finita",
+      "tv_guide": "TV Guida",
+      "account": "Account",
+      "please_login_share": "Please login to a Facebook account to share",
+      "label_stats": "Stats"
+    },
+    "es": {
+      "formation_off": "Iniciales",
+      "formation_sub": "Suplentes",
+      "match": "Partido",
+      "face_to_face": "VS",
+      "last_five_match": "Últimos partidos",
+      "dismiss": "despedir",
+      "reconnect": "Volver a conectar",
+      "lost_connect": "Internet perdido",
+      "connect_grant": "Internet es bueno",
+      "ft": "Finalizado",
+      "postpone": "PP",
+      "notstart": " ",
+      "loading": "cargando...",
+      "load_data_fail": "Los datos se actualiza\\nDesplegable para refrescar",
+      "data_updating": "Los datos se actualiza",
+      "no_data": "sin datos",
+      "match_not_start": "Partido sin comenzar",
+      "club": "Equipo",
+      "chap": "Handicap",
+      "taixiu": "O/U",
+      "1x2": "1x2",
+      "favorite_my_score": "Partidos",
+      "favorite_my_competitions": "Ligas",
+      "extra_subject": "Mejor aplicación para el fútbol resultados en directo",
+      "extra_text": "Mejor aplicación para el fútbol resultados en directo",
+      "today": "Hoy",
+      "detail": "Resumen",
+      "match_stats": "Estadísticas",
+      "common": "Mejores ligas",
+      "all": "Países",
+      "normal": "Normal",
+      "vip": "Vip",
+      "leagues": "Ligas",
+      "times": "Tiempos",
+      "line_up": "Alineaciones",
+      "match_cast": "Estadísticas",
+      "form": "Forma",
+      "table": "Clasificación",
+      "rank": "Clasificación",
+      "result": "Resultados",
+      "fixtures": "Calendario",
+      "tip_last_match": "Últimos partidos",
+      "tip_tip": "Descripción",
+      "tip_pick": "Escoger",
+      "input_search_here": "Introduzca su búsqueda aquí",
+      "home": "Local",
+      "away": "Visitante",
+      "label_total_match": "PJ",
+      "label_total_win": "G",
+      "label_total_draw": "E",
+      "label_total_lose": "P",
+      "label_total_point": "Pts",
+      "label_goal_for": "GF",
+      "label_goal_against": "GA",
+      "top_scorers": "Goleadores",
+      "player": "Jugador",
+      "team": "Equipo",
+      "goal": "Goles",
+      "penalty_goals": "Pen",
+      "first_goals": "1er gol",
+      "round": "Jornada",
+      "season": "Temporada",
+      "tip_free": "Tip FREE",
+      "tip_vip": "Tip VIP",
+      "update_app_title": "Tenemos una nueva versión. Actualiza la aplicación",
+      "ok": "Ok",
+      "cancel": "Cancelar",
+      "view_more_at_web": "Ver más en Live3s.com",
+      "languages": "Idiomas",
+      "alert": "Notificaciones",
+      "match_finish": "Partido terminó",
+      "tv_guide": "Fútbol TV",
+      "account": "Account",
+      "please_login_share": "Please login to a Facebook account to share",
+      "label_stats": "Stats"
+    },
+    "pt": {
+      "formation_off": "Inicial",
+      "formation_sub": "Suplentes",
+      "match": "Jogo",
+      "face_to_face": "VS",
+      "last_five_match": "Últimos jogos",
+      "dismiss": "demitir",
+      "reconnect": "reconectar",
+      "lost_connect": "Internet perdida",
+      "connect_grant": "internet é bom",
+      "ft": "Terminado",
+      "postpone": "PP",
+      "notstart": " ",
+      "loading": "carregando...",
+      "load_data_fail": "Dados está atualizando\\nSuspenso para atualizar",
+      "data_updating": "Dados está atualizando",
+      "no_data": "não há dados",
+      "match_not_start": "O jogo ainda não começou",
+      "club": "Equipa",
+      "chap": "Handicap",
+      "taixiu": "O/U",
+      "1x2": "1x2",
+      "favorite_my_score": "Jogos",
+      "favorite_my_competitions": "Ligas",
+      "extra_subject": "Melhor aplicação para resultados de futebol ao vivo",
+      "extra_text": "Melhor aplicação para resultados de futebol ao vivo",
+      "today": "Hoje",
+      "detail": "Sumário",
+      "match_stats": "Estatísticas",
+      "common": "Principais Ligas",
+      "all": "Países",
+      "normal": "Normal",
+      "vip": "Vip",
+      "leagues": "Ligas",
+      "times": "Tempo",
+      "line_up": "Formações",
+      "match_cast": "Estatísticas",
+      "form": "Forma",
+      "table": "Classificação",
+      "rank": "Classificação",
+      "result": "Resultados",
+      "fixtures": "Calendário",
+      "tip_last_match": "Últimos jogos",
+      "tip_tip": "Conteúdo",
+      "tip_pick": "Escolher",
+      "input_search_here": "Escreve o texto de busca",
+      "home": "Casa",
+      "away": "Fora",
+      "label_total_match": "PJ",
+      "label_total_win": "V",
+      "label_total_draw": "E",
+      "label_total_lose": "D",
+      "label_total_point": "P",
+      "label_goal_for": "GF",
+      "label_goal_against": "GA",
+      "top_scorers": "Marcadores",
+      "player": "Jogador",
+      "team": "Equipa",
+      "goal": "Golos",
+      "penalty_goals": "Pen",
+      "first_goals": "1º golo",
+      "round": "Jornada",
+      "season": "Época",
+      "tip_free": "Tip FREE",
+      "tip_vip": "Tip VIP",
+      "update_app_title": "Temos nova versão. Por favor, atualize este aplicativo",
+      "ok": "Ok",
+      "cancel": "Cancelar",
+      "view_more_at_web": "Ver mais em Live3s.com",
+      "languages": "Línguas",
+      "alert": "Notificações",
+      "match_finish": "Jogo ter terminado",
+      "tv_guide": "Jogos na TV",
+      "account": "Account",
+      "please_login_share": "Please login to a Facebook account to share",
+      "label_stats": "Stats"
+    },
+    "de": {
+      "formation_off": "Starter",
+      "formation_sub": "Ersatzbank",
+      "match": "Spiel",
+      "face_to_face": "VS",
+      "last_five_match": "Letzte Spiele",
+      "dismiss": "entlassen",
+      "reconnect": "wieder",
+      "lost_connect": "Internet verloren",
+      "connect_grant": "Internet ist gut",
+      "ft": "Beendet",
+      "postpone": "PP",
+      "notstart": " ",
+      "loading": "Laden...",
+      "load_data_fail": "keine Daten vorhanden\\nPulldown auffrischen",
+      "data_updating": "keine Daten vorhanden",
+      "no_data": "keine Daten vorhanden",
+      "match_not_start": "Spiel noch nicht gestartet wurde",
+      "club": "Team",
+      "chap": "Handicap",
+      "taixiu": "O/U",
+      "1x2": "1x2",
+      "favorite_my_score": "Spiel",
+      "favorite_my_competitions": "Liga",
+      "extra_subject": "Beste Anwendung für Live-Fußball-Ergebnisse",
+      "extra_text": "Beste Anwendung für Live-Fußball-Ergebnisse",
+      "today": "Heute",
+      "detail": "Spielzusammenfassung",
+      "match_stats": "Statistiken",
+      "common": "Top Ligen",
+      "all": "Alle Länder",
+      "normal": "Normal",
+      "vip": "Vip",
+      "leagues": "Liga",
+      "times": "Datum",
+      "line_up": "Kader",
+      "match_cast": "Statistiken",
+      "form": "Form",
+      "table": "Tabelle",
+      "rank": "Tabelle",
+      "result": "Ergebnisse",
+      "fixtures": "Spielplan",
+      "tip_last_match": "Letzte Spiele",
+      "tip_tip": "Tipps",
+      "tip_pick": "Wählen",
+      "input_search_here": "Dein Suchbegriff",
+      "home": "Heim",
+      "away": "Auswärts",
+      "label_total_match": "AB",
+      "label_total_win": "S",
+      "label_total_draw": "U",
+      "label_total_lose": "N",
+      "label_total_point": "P",
+      "label_goal_for": "GF",
+      "label_goal_against": "GA",
+      "top_scorers": "Topscorer",
+      "player": "Spieler",
+      "team": "Team",
+      "goal": "Tore",
+      "penalty_goals": "Pen",
+      "first_goals": "1. Tor",
+      "round": "Spieltag",
+      "season": "Saison",
+      "tip_free": "Tip FREE",
+      "tip_vip": "Tip VIP",
+      "update_app_title": "Wir haben eine neue Version. Bitte aktualisieren Sie diese App",
+      "ok": "Ok",
+      "cancel": "Abbrechen",
+      "view_more_at_web": "Weitere Details zu Live3s.com",
+      "languages": "Sprachen",
+      "alert": "Benachrichtigungen",
+      "match_finish": "Beendet",
+      "tv_guide": "TV Coverage Guide",
+      "account": "Account",
+      "please_login_share": "Please login to a Facebook account to share",
+      "label_stats": "Stats"
+    },
+    "vi": {
+      "formation_off": "Chính thức",
+      "formation_sub": "Dự bị",
+      "match": "Trận đấu",
+      "face_to_face": "VS",
+      "last_five_match": "Kết quả gần đây",
+      "dismiss": "Bỏ qua",
+      "reconnect": "Kết nối lại",
+      "lost_connect": "Mất kết nối internet",
+      "connect_grant": "Đã kết nối internet",
+      "ft": "KT",
+      "postpone": "PP",
+      "notstart": " ",
+      "loading": "Đang tải dữ liệu...",
+      "load_data_fail": "Không có dữ liệu\\nKéo xuống để cập nhật",
+      "data_updating": "Dữ liệu đang được cập nhật",
+      "no_data": "Chưa có dữ liệu",
+      "match_not_start": "Trận đấu chưa bắt đầu",
+      "club": "Đội bóng",
+      "chap": "Châu Á",
+      "taixiu": "Tài xỉu",
+      "1x2": "Châu Âu",
+      "favorite_my_score": "Trận đấu yêu thích",
+      "favorite_my_competitions": "Giải đấu yêu thích",
+      "extra_subject": "App Livescore đa ngữ tốt nhất",
+      "extra_text": "App Livescore rất tuyệt ! Bạn nên cài đặt thử xem ?!",
+      "today": "Hôm nay",
+      "detail": "Thông tin",
+      "match_stats": "Thống kê",
+      "common": "Top giải đấu",
+      "all": "Theo quốc gia",
+      "normal": "Thường",
+      "vip": "Vip",
+      "leagues": "Giải đấu",
+      "times": "Thời gian",
+      "line_up": "Đội hình",
+      "match_cast": "Số liệu",
+      "form": "Phong độ",
+      "table": "BXH",
+      "rank": "BXH",
+      "result": "Kết quả",
+      "fixtures": "Lịch thi đấu",
+      "tip_last_match": "Phong độ gần đây",
+      "tip_tip": "Nội dung dự đoán",
+      "tip_pick": "Chọn cửa",
+      "input_search_here": "Nhập từ khóa",
+      "home": "Chủ nhà",
+      "away": "Khách",
+      "label_total_match": "Tr",
+      "label_total_win": "T",
+      "label_total_draw": "H",
+      "label_total_lose": "B",
+      "label_total_point": "Điểm",
+      "label_goal_for": "GF",
+      "label_goal_against": "GA",
+      "top_scorers": "Top ghi bàn",
+      "player": "Cầu thủ",
+      "team": "Đội bóng",
+      "goal": "Bàn thắng",
+      "penalty_goals": "Pen.",
+      "first_goals": "Mở tỷ số",
+      "round": "Vòng đấu",
+      "season": "Mùa giải",
+      "tip_free": "Tip miễn phí",
+      "update_app_title": "Bạn hãy cập nhật phiên bản mới của app này !",
+      "ok": "Ok",
+      "cancel": "Hủy",
+      "view_more_at_web": "Xem thêm trên website Live3s.com",
+      "languages": "Ngôn ngữ",
+      "alert": "Thông báo",
+      "match_finish": "Trận đã kết thúc",
+      "tv_guide": "Lịch phát sóng trên truyền hình",
+      "account": "Account",
+      "please_login_share": "Please login to a Facebook account to share",
+      "label_stats": "Stats"
+    }
+  },
+  "match_push": {
+    "en": [
+      {
+        "value": 1,
+        "name": "Kick-off"
+      },
+      {
+        "value": 2,
+        "name": "Goals"
+      },
+      {
+        "value": 4,
+        "name": "Red card"
+      },
+      {
+        "value": 3,
+        "name": "Half-time (HT)"
+      },
+      {
+        "value": 5,
+        "name": "Full-time (FT)"
+      }
+    ],
+    "fr": [
+      {
+        "value": 1,
+        "name": "Commencer"
+      },
+      {
+        "value": 2,
+        "name": "Buts"
+      },
+      {
+        "value": 4,
+        "name": "Carte Rouge"
+      },
+      {
+        "value": 3,
+        "name": "Mi-temps (HT)"
+      },
+      {
+        "value": 5,
+        "name": "Terminé (FT)"
+      }
+    ],
+    "it": [
+      {
+        "value": 1,
+        "name": "Prossimi partita"
+      },
+      {
+        "value": 2,
+        "name": "Gols"
+      },
+      {
+        "value": 4,
+        "name": "Cartellino rosso"
+      },
+      {
+        "value": 3,
+        "name": "1 Tempo (HT)"
+      },
+      {
+        "value": 5,
+        "name": "Finale (FT)"
+      }
+    ],
+    "es": [
+      {
+        "value": 1,
+        "name": "Próximo partido"
+      },
+      {
+        "value": 2,
+        "name": "Goles"
+      },
+      {
+        "value": 4,
+        "name": "Tarjetas rojas"
+      },
+      {
+        "value": 3,
+        "name": "1er Tiempo"
+      },
+      {
+        "value": 5,
+        "name": "Tiempo completo"
+      }
+    ],
+    "pt": [
+      {
+        "value": 1,
+        "name": "Próximo jogo"
+      },
+      {
+        "value": 2,
+        "name": "Golos"
+      },
+      {
+        "value": 4,
+        "name": "Cartões vermelhos"
+      },
+      {
+        "value": 3,
+        "name": "1ª Parte"
+      },
+      {
+        "value": 5,
+        "name": "Terminado"
+      }
+    ],
+    "de": [
+      {
+        "value": 1,
+        "name": "Kick-off"
+      },
+      {
+        "value": 2,
+        "name": "Tore"
+      },
+      {
+        "value": 4,
+        "name": "Rote Karten"
+      },
+      {
+        "value": 3,
+        "name": "Halbzeit (HT)"
+      },
+      {
+        "value": 5,
+        "name": "Beendet (FT)"
+      }
+    ],
+    "vi": [
+      {
+        "value": 1,
+        "name": "Báo sắp diễn ra"
+      },
+      {
+        "value": 2,
+        "name": "Báo bàn thắng"
+      },
+      {
+        "value": 4,
+        "name": "Báo thẻ đỏ"
+      },
+      {
+        "value": 3,
+        "name": "Báo hết hiệp 1 (HT)"
+      },
+      {
+        "value": 5,
+        "name": "Báo kết thúc (FT)"
+      }
+    ]
+  },
+  "cache": "3600"
+}
