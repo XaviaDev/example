@@ -26,10 +26,6 @@
         "module": "odds"
       },
       {
-        "name": "Tips",
-        "module": "tips"
-      },
-      {
         "name": "Search",
         "module": "search"
       },
@@ -82,10 +78,6 @@
       {
         "name": "Cotes",
         "module": "odds"
-      },
-      {
-        "name": "Prédictions",
-        "module": "tips"
       },
       {
         "name": "Rechercher",
@@ -142,10 +134,6 @@
         "module": "odds"
       },
       {
-        "name": "Tip bóng đá",
-        "module": "tips"
-      },
-      {
         "name": "Tìm kiếm",
         "module": "search"
       },
@@ -198,10 +186,6 @@
       {
         "name": "Pronostici",
         "module": "odds"
-      },
-      {
-        "name": "Predizioni",
-        "module": "tips"
       },
       {
         "name": "Ricerca",
@@ -258,10 +242,6 @@
         "module": "odds"
       },
       {
-        "name": "Predicciones",
-        "module": "tips"
-      },
-      {
         "name": "Buscar",
         "module": "search"
       },
@@ -316,10 +296,6 @@
         "module": "odds"
       },
       {
-        "name": "Previsões",
-        "module": "tips"
-      },
-      {
         "name": "Pesquisa",
         "module": "search"
       },
@@ -372,10 +348,6 @@
       {
         "name": "Quoten",
         "module": "odds"
-      },
-      {
-        "name": "Fußball Tipps",
-        "module": "tips"
       },
       {
         "name": "Suche",
