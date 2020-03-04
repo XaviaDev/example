@@ -34,10 +34,6 @@
         "module": "favourite"
       },
       {
-        "name": "Related Apps",
-        "module": "relatedapps"
-      },
-      {
         "name": "Share",
         "module": "share"
       },
@@ -48,10 +44,6 @@
       {
         "name": "Settings",
         "module": "language"
-      },
-      {
-        "name": "Privacy and Cookies",
-        "module": "privacy"
       }
     ],
     "fr": [
@@ -88,10 +80,6 @@
         "module": "favourite"
       },
       {
-        "name": "Applications liées",
-        "module": "relatedapps"
-      },
-      {
         "name": "Share",
         "module": "share"
       },
@@ -102,10 +90,6 @@
       {
         "name": "Paramètres",
         "module": "language"
-      },
-      {
-        "name": "Confidentialité et cookies",
-        "module": "privacy"
       }
     ],
     "vi": [
@@ -142,10 +126,6 @@
         "module": "favourite"
       },
       {
-        "name": "App của tôi",
-        "module": "relatedapps"
-      },
-      {
         "name": "Chia sẻ",
         "module": "share"
       },
@@ -156,10 +136,6 @@
       {
         "name": "Cấu hình",
         "module": "language"
-      },
-      {
-        "name": "Riêng tư và Cookies",
-        "module": "privacy"
       }
     ],
     "it": [
@@ -196,10 +172,6 @@
         "module": "favourite"
       },
       {
-        "name": "Altre applicazioni",
-        "module": "relatedapps"
-      },
-      {
         "name": "Share",
         "module": "share"
       },
@@ -210,10 +182,6 @@
       {
         "name": "Impostazioni",
         "module": "language"
-      },
-      {
-        "name": "Privacy e cookie",
-        "module": "privacy"
       }
     ],
     "es": [
@@ -250,10 +218,6 @@
         "module": "favourite"
       },
       {
-        "name": "Relacionadas",
-        "module": "relatedapps"
-      },
-      {
         "name": "Compartir",
         "module": "share"
       },
@@ -264,10 +228,6 @@
       {
         "name": "Ajustes",
         "module": "language"
-      },
-      {
-        "name": "Cookies y privacidad",
-        "module": "privacy"
       }
     ],
     "pt": [
@@ -304,10 +264,6 @@
         "module": "favourite"
       },
       {
-        "name": "Outros aplicativos",
-        "module": "relatedapps"
-      },
-      {
         "name": "Partihar",
         "module": "share"
       },
@@ -318,10 +274,6 @@
       {
         "name": "Configurações",
         "module": "language"
-      },
-      {
-        "name": "Privacidade e Cookies",
-        "module": "privacy"
       }
     ],
     "de": [
@@ -358,10 +310,6 @@
         "module": "favourite"
       },
       {
-        "name": "Ähnliche Apps",
-        "module": "relatedapps"
-      },
-      {
         "name": "Teilen",
         "module": "share"
       },
@@ -372,10 +320,6 @@
       {
         "name": "Einstellungen",
         "module": "language"
-      },
-      {
-        "name": "Cookies & Datenschutz",
-        "module": "privacy"
       }
     ]
   },
