@@ -59,13 +59,13 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "",
+    "sim": "vn",
     "resource": "",
     "radar": "darksky",
     "policy": "https://sites.google.com/view/appspro-privacy"
   },
   "apppro": {
-    "sim": "",
+    "sim": "vn",
     "resource": "",
     "radar": "ventu",
     "policy": "https://sites.google.com/view/appspro-privacy"
