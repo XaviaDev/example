@@ -36,11 +36,11 @@
     "delay": 0,
     "type": {
       "b": "fan,startapp",
-      "n": "",
+      "n": "fan,startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "",
+        "click": "fan,startapp",
         "close": "",
         "lock": "",
         "load": "",

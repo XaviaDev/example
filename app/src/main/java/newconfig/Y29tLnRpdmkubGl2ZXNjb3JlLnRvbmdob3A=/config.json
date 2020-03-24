@@ -36,17 +36,17 @@
     "delay": 0,
     "type": {
       "b": "startapp",
-      "n": "",
+      "n": "startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "",
+        "click": "startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "startapp",
-        "open": ""
+        "open": "startapp"
       }
     },
     "priority": "startapp,unity",

@@ -36,7 +36,7 @@
     "delay": 0,
     "type": {
       "b": "startapp",
-      "n": "",
+      "n": "startapp",
       "p": {
         "boot": "",
         "net": "",
@@ -46,7 +46,7 @@
         "load": "",
         "switch": "",
         "gift": "startapp",
-        "open": ""
+        "open": "unity,startapp"
       }
     },
     "priority": "startapp,unity",

@@ -40,13 +40,13 @@
       "p": {
         "boot": "",
         "net": "",
-        "click": "",
+        "click": "startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
         "gift": "startapp",
-        "open": ""
+        "open": "startapp"
       }
     },
     "priority": "startapp,unity",
