@@ -1,7 +1,7 @@
 {
   "loaded": "loaded",
   "email": "xaviadev@gmail.com",
-  "enable": false,
+  "enable": true,
   "later": 0,
   "trigger": 15,
   "interval": 5,
