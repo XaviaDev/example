@@ -46,7 +46,7 @@
         "load": "",
         "switch": "",
         "gift": "startapp,unity",
-        "open": "fan,startapp,unity"
+        "open": "admob,fan,startapp,unity"
       }
     },
     "priority": "startapp,unity",
