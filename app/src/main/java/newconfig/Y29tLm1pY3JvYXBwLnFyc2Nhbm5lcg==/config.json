@@ -3,7 +3,7 @@
   "email": "xaviadev@gmail.com",
   "enable": true,
   "later": 0,
-  "trigger": 15,
+  "trigger": 720,
   "interval": 5,
   "minCode": 0,
   "ads": {
