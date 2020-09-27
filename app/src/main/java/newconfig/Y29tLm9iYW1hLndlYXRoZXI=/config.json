@@ -10,17 +10,10 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
-        "m": "",
-        "n": "",
-        "p": "",
-        "r": ""
-      },
-      "rxadmob": {
-        "b": "",
-        "m": "",
-        "n": "",
-        "p": "",
+        "b": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzQ0OTI1MjM2MzAsY2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzgyNDAxOTY5NTY=",
+        "m": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzQxMDkzODAyNTE=",
+        "n": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzEwNTk3MTA5MzA=",
+        "p": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzkzNjE3MDY5MzE=",
         "r": ""
       },
       "fan": {

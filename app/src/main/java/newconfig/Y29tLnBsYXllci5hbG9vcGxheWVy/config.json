@@ -10,24 +10,17 @@
     "items": 8,
     "ids": {
       "admob": {
-        "b": "ca-app-pub-6366697232782655/1479558543",
-        "m": "ca-app-pub-6366697232782655/9850849066",
-        "n": "ca-app-pub-6366697232782655/8783333490",
-        "p": "ca-app-pub-6366697232782655/2463313638",
-        "r": ""
-      },
-      "rxadmob": {
-        "b": "",
-        "m": "",
-        "n": "",
-        "p": "",
+        "b": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1LzE0Nzk1NTg1NDM=",
+        "m": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1Lzk4NTA4NDkwNjY=",
+        "n": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1Lzg3ODMzMzM0OTA=",
+        "p": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1LzI0NjMzMTM2Mzg=",
         "r": ""
       },
       "fan": {
-        "b": "",
-        "m": "",
-        "n": "",
-        "p": "",
+        "b": "bl8xMTAyMjE4NDgwMjM0ODQ2XzExMDIyNDM5NzM1NjU2MzAsbl8xMTAyMjE4NDgwMjM0ODQ2XzExMDIyMjEwOTM1Njc5MTg=",
+        "m": "MTEwMjIxODQ4MDIzNDg0Nl8xMTAyMjQzMDk2ODk5MDUx",
+        "n": "MTEwMjIxODQ4MDIzNDg0Nl8xMTAyMjQ0NzY2ODk4ODg0",
+        "p": "MTEwMjIxODQ4MDIzNDg0Nl8xMTAyMjQ1NDEzNTY1NDg2",
         "r": ""
       },
       "startapp": "MjA3MTI5MDI2",
