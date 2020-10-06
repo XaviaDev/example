@@ -42,7 +42,7 @@
         "open": "admob,fan,startapp"
       }
     },
-    "priority": "fan,startapp,unity",
+    "priority": "admob,fan,startapp,unity",
     "random": false
   },
   "update": {
