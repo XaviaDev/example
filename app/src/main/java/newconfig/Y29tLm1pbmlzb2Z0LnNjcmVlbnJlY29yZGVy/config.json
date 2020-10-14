@@ -10,10 +10,10 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "ca-app-pub-6366697232782655/6871238605",
-        "m": "ca-app-pub-6366697232782655/5366585245",
-        "n": "ca-app-pub-6366697232782655/2548850210",
-        "p": "ca-app-pub-6366697232782655/1427340236",
+        "b": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1LzY4NzEyMzg2MDU=",
+        "m": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1LzUzNjY1ODUyNDU=",
+        "n": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1LzI1NDg4NTAyMTA=",
+        "p": "Y2EtYXBwLXB1Yi02MzY2Njk3MjMyNzgyNjU1LzE0MjczNDAyMzY=",
         "r": ""
       },
       "fan": {
@@ -28,21 +28,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "startapp",
-      "n": "startapp",
+      "b": "admob,startapp",
+      "n": "admob,startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "startapp",
+        "click": "admob,startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "startapp",
-        "open": "startapp"
+        "gift": "admob,startapp",
+        "open": "admob,startapp"
       }
     },
-    "priority": "startapp,unity",
+    "priority": "admob,startapp,unity",
     "random": false
   },
   "update": {
