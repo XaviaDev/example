@@ -39,7 +39,7 @@
         "load": "",
         "switch": "",
         "gift": "startapp",
-        "open": "startapp"
+        "open": "admob,startapp"
       }
     },
     "priority": "fan,startapp,unity",
