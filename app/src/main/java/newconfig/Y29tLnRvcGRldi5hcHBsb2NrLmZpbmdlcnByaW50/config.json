@@ -29,7 +29,7 @@
     "delay": 0,
     "type": {
       "b": "admob,fan,startapp",
-      "n": "fan,startapp",
+      "n": "startapp",
       "p": {
         "boot": "",
         "net": "",

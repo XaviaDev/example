@@ -28,21 +28,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "fan",
-      "n": "fan",
+      "b": "startapp",
+      "n": "startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "fan",
+        "click": "startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "fan",
-        "open": "fan"
+        "gift": "startapp",
+        "open": "startapp"
       }
     },
-    "priority": "fan,startapp,unity",
+    "priority": "startapp,unity",
     "random": false
   },
   "update": {
