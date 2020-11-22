@@ -28,21 +28,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "admob,startapp",
-      "n": "admob,startapp",
+      "b": "startapp",
+      "n": "startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "admob,startapp",
+        "click": "startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "admob,startapp",
-        "open": "admob,startapp"
+        "gift": "startapp",
+        "open": "startapp"
       }
     },
-    "priority": "admob,startapp,unity",
+    "priority": "startapp,unity",
     "random": false
   },
   "update": {
