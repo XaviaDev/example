@@ -5,7 +5,7 @@
   "later": 0,
   "trigger": 720,
   "interval": 5,
-  "minCode": 0,
+  "minCode": 4,
   "ads": {
     "items": 4,
     "ids": {
