@@ -1,15 +1,21 @@
 {
-  "loaded": "loaded",
-  "email": "xaviadev@gmail.com",
+  "email": "abc@gmail.com",
   "enable": true,
   "later": 0,
-  "trigger": 720,
+  "trigger": 15,
   "interval": 5,
-  "minCode": 0,
+  "minCode": -1,
   "ads": {
     "items": 4,
     "ids": {
       "admob": {
+        "b": "Y2EtYXBwLXB1Yi03OTQ3NDY1MTY0NjUzNjE5LzU0OTQ3ODA2NjYsY2EtYXBwLXB1Yi03OTQ3NDY1MTY0NjUzNjE5LzM1MzI5Njk5MTE=",
+        "m": "Y2EtYXBwLXB1Yi03OTQ3NDY1MTY0NjUzNjE5LzQ0OTA4MjgzNjY=",
+        "n": "Y2EtYXBwLXB1Yi03OTQ3NDY1MTY0NjUzNjE5LzI0ODU0NzM5NDI=",
+        "p": "Y2EtYXBwLXB1Yi03OTQ3NDY1MTY0NjUzNjE5LzQ1MDQyOTg0Nzg=",
+        "r": ""
+      },
+      "rxadmob": {
         "b": "",
         "m": "",
         "n": "",
@@ -23,7 +29,7 @@
         "p": "",
         "r": ""
       },
-      "startapp": "MjA3MTI5MDI2",
+      "startapp": "MjAyODMwMTkw",
       "unity": "MTUwMjQ0NQ=="
     },
     "delay": 0,
@@ -54,13 +60,11 @@
   "app": {
     "sim": "vn",
     "resource": "",
-    "radar": "darksky",
     "policy": "https://sites.google.com/view/appspro-privacy"
   },
   "apppro": {
     "sim": "vn",
     "resource": "",
-    "radar": "ventu",
     "policy": "https://sites.google.com/view/appspro-privacy"
   }
 }
