@@ -54,7 +54,7 @@
   "app": {
     "sim": "vn",
     "resource": "",
-    "radar": "ventu",
+    "radar": "windy",
     "policy": "https://sites.google.com/view/appspro-privacy"
   },
   "apppro": {
