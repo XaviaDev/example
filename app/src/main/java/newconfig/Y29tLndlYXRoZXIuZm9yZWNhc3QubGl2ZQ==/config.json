@@ -52,7 +52,7 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "vn",
+    "sim": "vn,cn",
     "resource": "",
     "radar": "windy",
     "policy": "https://sites.google.com/view/appspro-privacy"
