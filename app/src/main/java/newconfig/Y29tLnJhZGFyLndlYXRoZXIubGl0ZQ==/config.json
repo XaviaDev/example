@@ -52,9 +52,9 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "vn",
+    "sim": "vn,jp,kr,tw,cn,cm,ca,th,id,hk,gb,sa,sg,in,il,mm,np,pk,pe,nz,us,au,br,cl,ar,my,mx",
     "resource": "",
-    "radar": "darksky",
+    "radar": "windy",
     "policy": "https://sites.google.com/view/appspro-privacy"
   },
   "apppro": {
