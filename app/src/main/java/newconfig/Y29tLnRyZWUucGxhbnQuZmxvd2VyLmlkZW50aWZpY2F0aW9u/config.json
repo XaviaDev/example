@@ -10,10 +10,10 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
-        "m": "",
-        "n": "",
-        "p": "",
+        "b": "Y2EtYXBwLXB1Yi0yNjc4NjcwMTI3NzY0MDQ1LzYzNjgzNTI5NDUsY2EtYXBwLXB1Yi0yNjc4NjcwMTI3NzY0MDQ1LzM0MjI5ODA2MjA=",
+        "m": "Y2EtYXBwLXB1Yi0yNjc4NjcwMTI3NzY0MDQ1LzQ1NjA0NDcyNTg=",
+        "n": "Y2EtYXBwLXB1Yi0yNjc4NjcwMTI3NzY0MDQ1LzczODIwNTE3MTk=",
+        "p": "Y2EtYXBwLXB1Yi0yNjc4NjcwMTI3NzY0MDQ1Lzg2OTUxMzMzODU=",
         "r": ""
       },
       "fan": {
@@ -52,7 +52,7 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "vn",
+    "sim": "jp,kr,tw,cn,cm,ca,th,id,hk,gb,sa,sg,in,il,mm,np,pk,pe,nz,us,au,br,cl,ar,my,mx",
     "resource": "7,5",
     "policy": "https://sites.google.com/view/appspro-privacy"
   },
