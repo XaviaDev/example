@@ -10,10 +10,10 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "",
-        "m": "",
-        "n": "",
-        "p": "",
+        "b": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzYwMjc1NDE3ODQsY2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzQ3MTQ0NjAxMTE=",
+        "m": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzk3NzUyMTUxMDM=",
+        "n": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzQzMzEzMTY3MzM=",
+        "p": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzU4NTgxNTkwMDg=",
         "r": ""
       },
       "fan": {
@@ -28,21 +28,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "startapp",
-      "n": "startapp",
+      "b": "admob,startapp",
+      "n": "admob,startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "startapp",
+        "click": "admob,startapp",
         "close": "",
         "lock": "",
         "load": "",
-        "switch": "",
-        "gift": "startapp",
-        "open": "startapp"
+        "switch": "startapp",
+        "gift": "admob,startapp",
+        "open": "admob,startapp"
       }
     },
-    "priority": "startapp,unity",
+    "priority": "admob,startapp,unity",
     "random": false
   },
   "update": {
