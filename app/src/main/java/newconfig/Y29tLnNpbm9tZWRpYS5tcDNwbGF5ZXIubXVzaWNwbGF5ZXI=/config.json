@@ -1,0 +1,66 @@
+{
+  "loaded": "loaded",
+  "email": "xaviadev@gmail.com",
+  "enable": true,
+  "later": 0,
+  "trigger": 720,
+  "interval": 5,
+  "minCode": 0,
+  "ads": {
+    "items": 4,
+    "ids": {
+      "admob": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "fan": {
+        "b": "",
+        "m": "",
+        "n": "",
+        "p": "",
+        "r": ""
+      },
+      "startapp": "MjA3MTI5MDI2",
+      "unity": "MTUwMjQ0NQ=="
+    },
+    "delay": 0,
+    "type": {
+      "b": "startapp",
+      "n": "startapp",
+      "p": {
+        "boot": "",
+        "net": "",
+        "click": "startapp",
+        "close": "",
+        "lock": "",
+        "load": "",
+        "switch": "startapp",
+        "gift": "startapp",
+        "open": "startapp"
+      }
+    },
+    "priority": "startapp,unity",
+    "random": false
+  },
+  "update": {
+    "f": true,
+    "ver": 1,
+    "des": "1.Ultraviolet (UV) index#2.Sunrise and sunset time#3.7-day forecast#4.Daily temperature predictions, with daily highs and lows",
+    "apk": "app.apk"
+  },
+  "app": {
+    "sim": "vn",
+    "resource": "",
+    "radar": "darksky",
+    "policy": "https://sites.google.com/view/appspro-privacy"
+  },
+  "apppro": {
+    "sim": "vn",
+    "resource": "",
+    "radar": "ventu",
+    "policy": "https://sites.google.com/view/appspro-privacy"
+  }
+}
