@@ -10,9 +10,9 @@
     "items": 4,
     "ids": {
       "admob": {
-        "b": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzU3MDgwNzY2MTEsY2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzU4Mzk5Mzg1NTM=",
+        "b": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzgxNzE5MTAyNzAsY2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzUzNDk5NTA1OTc=",
         "m": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzk3NzUyNTMwOTA=",
-        "n": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzgxODc3MzQ0NDY=",
+        "n": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzQwMzY4Njg5Mjk=",
         "p": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzY5NjI3NzAzODQ=",
         "r": ""
       },
@@ -28,21 +28,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "admob,startapp",
-      "n": "admob,startapp",
+      "b": "admob",
+      "n": "admob",
       "p": {
         "boot": "",
         "net": "",
-        "click": "admob,startapp",
+        "click": "admob,unity",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "admob,startapp",
-        "open": "admob,startapp"
+        "gift": "admob,unity",
+        "open": "admob,unity"
       }
     },
-    "priority": "admob,startapp,unity",
+    "priority": "admob,unity",
     "random": false
   },
   "update": {
@@ -52,7 +52,7 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "vn,jp,kr,tw,cn,cm,ca,th,id,hk,gb,sa,sg,in,il,mm,np,pk,pe,nz,us,au,br,cl,ar,my,mx",
+    "sim": "vn,jp,kr,tw,cn,cm,ca,th,id,hk,gb,sa,sg,in,il,mm,np,pk,pe,nz,au,br,cl,ar,my,mx",
     "resource": "",
     "radar": "windy",
     "policy": "https://sites.google.com/view/appspro-privacy"
