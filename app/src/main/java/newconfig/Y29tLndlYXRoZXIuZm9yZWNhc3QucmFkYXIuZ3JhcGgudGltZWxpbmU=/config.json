@@ -28,21 +28,21 @@
     },
     "delay": 0,
     "type": {
-      "b": "admob",
-      "n": "admob",
+      "b": "admob,startapp",
+      "n": "admob,startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "admob,unity",
+        "click": "admob,unity,startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "admob,unity",
-        "open": "admob,unity"
+        "gift": "admob,unity,startapp",
+        "open": "admob,unity,startapp"
       }
     },
-    "priority": "admob,unity",
+    "priority": "admob,unity,startapp",
     "random": false
   },
   "update": {
@@ -52,7 +52,7 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "vn,jp,kr,tw,cn,cm,ca,th,id,hk,gb,sa,sg,in,il,mm,np,pk,pe,nz,au,br,cl,ar,my,mx",
+    "sim": "vn,jp,kr,tw,cn,cm,ca,th,id,hk,gb,sa,sg,in,il,mm,np,pk,pe,nz,au,br,cl,ar,my,mx,us",
     "resource": "",
     "radar": "windy",
     "policy": "https://sites.google.com/view/appspro-privacy"
