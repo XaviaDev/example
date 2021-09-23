@@ -33,16 +33,16 @@
       "p": {
         "boot": "",
         "net": "",
-        "click": "admob,unity,startapp",
+        "click": "admob,startapp,unity",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "admob,unity,startapp",
-        "open": "admob,unity,startapp"
+        "gift": "admob,startapp,unity",
+        "open": "admob,startapp,unity"
       }
     },
-    "priority": "admob,unity,startapp",
+    "priority": "admob,startapp,unity",
     "random": false
   },
   "update": {
