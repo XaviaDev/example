@@ -1,18 +1,17 @@
 {
-  "loaded": "loaded",
-  "email": "abc@gmail.com",
+  "email": "xaviadev@gmail.com",
   "enable": true,
   "later": 0,
-  "trigger": 720,
+  "trigger": 15,
   "interval": 5,
-  "minCode": 5,
+  "minCode": -1,
   "ads": {
     "items": 4,
     "ids": {
       "admob": {
-        "b": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzgxNzE5MTAyNzAsY2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzUzNDk5NTA1OTc=",
+        "b": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzU3MDgwNzY2MTEsY2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzU4Mzk5Mzg1NTM=",
         "m": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzk3NzUyNTMwOTA=",
-        "n": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzQwMzY4Njg5Mjk=",
+        "n": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzgxODc3MzQ0NDY=",
         "p": "Y2EtYXBwLXB1Yi0yNTQzMDY1NjczMjI0NTUzLzY5NjI3NzAzODQ=",
         "r": ""
       },
@@ -23,26 +22,26 @@
         "p": "",
         "r": ""
       },
-      "startapp": "MjA3MTI5MDI2",
+      "startapp": "MjAyODMwMTkw",
       "unity": "MTUwMjQ0NQ=="
     },
     "delay": 0,
     "type": {
-      "b": "admob,startapp",
-      "n": "admob,startapp",
+      "b": "fan,startapp",
+      "n": "fan,startapp",
       "p": {
         "boot": "",
         "net": "",
-        "click": "admob,startapp,unity",
+        "click": "fan,startapp",
         "close": "",
         "lock": "",
         "load": "",
         "switch": "",
-        "gift": "admob,startapp,unity",
-        "open": "admob,startapp,unity"
+        "gift": "fan,startapp",
+        "open": "fan,startapp"
       }
     },
-    "priority": "admob,startapp,unity",
+    "priority": "fan,startapp,unity",
     "random": false
   },
   "update": {
@@ -52,15 +51,8 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "vn,jp,kr,tw,cn,cm,ca,th,id,hk,gb,sa,sg,in,il,mm,np,pk,pe,nz,au,br,cl,ar,my,mx,us",
+    "sim": "",
     "resource": "",
-    "radar": "windy",
-    "policy": "https://sites.google.com/view/appspro-privacy"
-  },
-  "apppro": {
-    "sim": "vn",
-    "resource": "",
-    "radar": "ventu",
     "policy": "https://sites.google.com/view/appspro-privacy"
   }
 }
