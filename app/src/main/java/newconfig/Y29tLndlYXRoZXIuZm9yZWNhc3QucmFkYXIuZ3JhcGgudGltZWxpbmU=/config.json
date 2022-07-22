@@ -51,7 +51,7 @@
     "apk": "app.apk"
   },
   "app": {
-    "sim": "",
+    "sim": "vn",
     "resource": "",
     "policy": "https://sites.google.com/view/appspro-privacy"
   }
